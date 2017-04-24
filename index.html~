@@ -104,9 +104,14 @@
 							<h1>Avoimen lähdekoodin palvelut</h1>
 						</div>
 						
-						<div class="content">				
+						<div class="content-left">				
 							<h2>Avoimen lähdekoodin järjestelmät julkishallinnossa</h2>
 							<p>Tämä sivusto on yksinkertainen listaus kotimaan julkishallinnon IT-järjestelmistä, joiden lähdekoodi on julkisesti saatavilla. Tarkoitus on helpottaa tiedon löytämistä ja olemassaolevien ratkaisujen kartoittamista, ei tarjota kokonaisvaltaista palvelualustaa tai ohjeita projektien käynnistämistä varten.</p>
+						</div>
+						
+						<div class="content-right">
+							<h2>Miksi?</h2>
+							<p>Tällaista listaa ei näyttänyt olevan olemassa, mutta julkishallinnossa avoimen lähdekoodin käyttö on nyt lisääntynyt ja lähdekoodia on aiempaa enemmän saatavilla julkisesti erilaisista palveluista. Tämä on kevyt ja nopea tapa kokeilla, onko listaukselle käyttäjiä ja tilausta.</p>
 						</div>
 						
 					</div>
