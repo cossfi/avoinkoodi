@@ -10,7 +10,7 @@ Avoinkoodi.fi on yksinkertainen lista Suomen julkishallinnon projekteista, joide
 # Avointa lähdekoodia Suomen julkishallinnosta
 
 Tämä GitHub-projekti muodostaa webbisaitin, joka näkyy osoitteessa [http://www.avoinkoodi.fi/](http://www.avoinkoodi.fi/). Webbisaitti perustuu [GitHub
-pages -tekniikkaan](https://pages.github.com/), eli haarassa [gh-pages](https://github.com/solita/avoinkoodi/tree/gh-pages) on sivustolla näkyvä sisältö. Mahdolliset
+pages -tekniikkaan](https://pages.github.com/), eli haarassa [gh-pages](https://github.com/cossfi/avoinkoodi/tree/gh-pages) on sivustolla näkyvä sisältö. Mahdolliset
 pull requestit pitää kohdistaa siihen, eikä master-haaraan.
 
 Projektidata ladataan selaimeen Javascriptilla JSON-muodossa, eli projektilistan voi ladata myös raakadatana ja upottaa siten muuallekin.
@@ -51,8 +51,8 @@ Lisäksi haluamme kiittää seuraavia henkilöitä osallistumisesta palvelun keh
 
 # Palaute
 
-Otamme mielellään palautetta vastaan sähköpostiosoitteeseen avoinkoodi@solita.fi
+Otamme mielellään palautetta vastaan sähköpostiosoitteeseen avoinkoodi@coss.fi
 
 # Lisenssi
 
-Palvelun toteutus ja sisältö on käytettävissä [Eclipse Public -lisenssin](https://github.com/solita/avoinkoodi/blob/master/LICENSE) ehtojen mukaisesti. 
+Palvelun toteutus ja sisältö on käytettävissä [Eclipse Public -lisenssin](https://github.com/cossfi/avoinkoodi/blob/master/LICENSE) ehtojen mukaisesti. 
