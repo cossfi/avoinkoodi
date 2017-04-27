@@ -4,7 +4,7 @@ Avoinkoodi.fi
 
 Avoinkoodi.fi on yksinkertainen lista Suomen julkishallinnon projekteista, joiden lähdekoodi on julkaistu kaikille avoimena lähdekoodina.
 
-[![Build Status](https://api.travis-ci.org/solita/avoinkoodi.svg?branch=gh-pages)](https://travis-ci.org/solita/avoinkoodi)
+[![Build Status](https://api.travis-ci.org/cossfi/avoinkoodi.svg?branch=gh-pages)](https://travis-ci.org/cossfi/avoinkoodi)
 
 
 # Avointa lähdekoodia Suomen julkishallinnosta
