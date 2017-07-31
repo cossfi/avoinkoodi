@@ -329,12 +329,12 @@
 	    "description": "Oma riista on sähköisen asioinnin palvelu, jonka avulla metsästäjät voivat pitää kirjaa tehdyistä riistahavainnoista ja saaduista saaliista."
 	},
 	{
-	    "project": "Suomi.fi-Palvelutietovaranto",
+	    "project": "Suomi.fi-palvelutietovaranto",
 	    "owner": "Väestörekisterikeskus",
 	    "code_url": "https://github.com/vrk-kpa/ptv-releases",
 	    "service_url": "http://palvelutietovaranto.suomi.fi/",
 	    "homepage_url": "http://palvelutietovaranto.suomi.fi/",
-	    "description": "Suomi.fi-Palvelutietovaranto on keskitetty tietovaranto, johon tallennetaan ensisijaisesti Suomessa tarjolla olevia julkisia palveluja sekä palveluun liittyvien asiointikanavien (verkkoasiointi, verkkosivu, tulostettava lomake, puhelinasiointi, palvelupiste) tietoja. Palvelutietovarantoon tietojaan kuvaavat kunnat sekä valtionhallinnon organisaatiot. Yksityisen sektorin organisaatiot saavat käyttöoikeuden myöhemmin 2017."
+	    "description": "Suomi.fi-palvelutietovaranto on keskitetty tietovaranto, johon tallennetaan ensisijaisesti Suomessa tarjolla olevia julkisia palveluja sekä palveluun liittyvien asiointikanavien (verkkoasiointi, verkkosivu, tulostettava lomake, puhelinasiointi, palvelupiste) tietoja. Palvelutietovarantoon tietojaan kuvaavat kunnat sekä valtionhallinnon organisaatiot. Yksityisen sektorin organisaatiot saavat käyttöoikeuden myöhemmin 2017."
 	}
     ]
 }
