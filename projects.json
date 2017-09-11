@@ -336,5 +336,13 @@
 	    "homepage_url": "http://palvelutietovaranto.suomi.fi/",
 	    "description": "Suomi.fi-palvelutietovaranto on keskitetty tietovaranto, johon tallennetaan ensisijaisesti Suomessa tarjolla olevia julkisia palveluja sekä palveluun liittyvien asiointikanavien (verkkoasiointi, verkkosivu, tulostettava lomake, puhelinasiointi, palvelupiste) tietoja. Palvelutietovarantoon tietojaan kuvaavat kunnat sekä valtionhallinnon organisaatiot. Yksityisen sektorin organisaatiot saavat käyttöoikeuden myöhemmin 2017."
 	}
+	{
+	    "project": "YleTf",
+	    "owner": "Yleisradio",
+	    "code_url": "https://github.com/Yleisradio/yle_tf",
+	    "service_url": "",
+	    "homepage_url": "https://yle.fi/",
+	    "description": "A wrapper for Terraform with support for hooks and environments."
+	}
     ]
 }
