@@ -311,7 +311,7 @@
             "service_url": "http://finnishtransportagency.github.io/harja/",
             "homepage_url": "http://finnishtransportagency.github.io/harja/",
 	    "description": "Liikenneviraston väylien kunnossapidon seurannan ja raportoinnin tietojärjestelmä Harja"
-   },
+   	},
 	{
 	    "project": "KADA – Kuntien avoin digialusta",
 	    "owner": "Turun kaupunki",
@@ -343,6 +343,22 @@
 	    "service_url": "",
 	    "homepage_url": "https://yle.fi/",
 	    "description": "A wrapper for Terraform with support for hooks and environments."
+	},
+	{
+	    "project": "Yle - API template",
+	    "owner": "Yleisradio",
+	    "code_url": "https://github.com/Yleisradio/yle-api-template",
+	    "service_url": "",
+	    "homepage_url": "https://yle.fi/",
+	    "description": "A Leiningen template for Yle API."
+	},
+	{
+	    "project": "Yle Uutiset Applications",
+	    "owner": "Yleisradio",
+	    "code_url": "https://github.com/Yleisradio/yle-uutiset",
+	    "service_url": "",
+	    "homepage_url": "https://yle.fi/",
+	    "description": "Yle Uutiset Applications."
 	}
     ]
 }
