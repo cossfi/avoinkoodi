@@ -9,10 +9,10 @@
 	    "description": "Ilmatieteenlaitoksen MetOcean-säädatan hallintaan käytetty järjestelmä."
 	},
 	{
-            "project": "Munsivut - palvelutori",
+            "project": "Munpalvelut.fi digitaalinen palvelutori",
             "owner": "Turun kaupunki",
-            "code_url": "https://github.com/digiturku",
-            "service_url": "http://www.turku.fi/munpalvelut",
+            "code_url": "http://www.turku.fi/github",
+            "service_url": "http://www.munpalvelut.fi/",
             "homepage_url": "http://www.turku.fi/munpalvelut",
 	    "description": "Digitaalinen palvelutori, joka yhdistää palveluiden käyttäjät niitä tuottaviin yrityksiin ja tahoihin."
 	},
@@ -233,12 +233,12 @@
 	    "description": ""
         },
         {
-            "project": "Avoimen tiedon ja yhteentoimivuuden palvelu Avoindata.fi",
-            "owner": "Valtori",
+            "project": "Avoimen tiedon ja yhteentoimivuuden palvelu avoindata.fi",
+            "owner": "Väestörekisterikeskus",
             "code_url": "https://github.com/yhteentoimivuuspalvelut/ytp",
             "service_url": "https://www.avoindata.fi/fi",
             "homepage_url": "-",
-	    "description": ""
+	    "description": "Ckan + Drupal + AWS. Räätälöidyt lähdekoodit GitHubista."
         },
         {
             "project": "Apika (PoC)",
@@ -311,6 +311,54 @@
             "service_url": "http://finnishtransportagency.github.io/harja/",
             "homepage_url": "http://finnishtransportagency.github.io/harja/",
 	    "description": "Liikenneviraston väylien kunnossapidon seurannan ja raportoinnin tietojärjestelmä Harja"
-        }
+   	},
+	{
+	    "project": "KADA – Kuntien avoin digialusta",
+	    "owner": "Turun kaupunki",
+	    "code_url": "https://www.turku.fi/github-turkufi",
+	    "service_url": "http://www.turku.fi/",
+	    "homepage_url": "http://www.kada.fi/",
+	    "description": "Turku.fi-alustaan pohjautuva kuntien tarpeisiin tehty Drupal 7 -pohjainen verkkopalvelualusta."
+	},
+	{
+	    "project": "Oma riista – Riistahallinnon asiointipalvelu",
+	    "owner": "Suomen riistakeskus",
+	    "code_url": "https://github.com/suomenriistakeskus",
+	    "service_url": "https://oma.riista.fi/",
+	    "homepage_url": "https://oma.riista.fi/",
+	    "description": "Oma riista on sähköisen asioinnin palvelu, jonka avulla metsästäjät voivat pitää kirjaa tehdyistä riistahavainnoista ja saaduista saaliista."
+	},
+	{
+	    "project": "Suomi.fi-palvelutietovaranto",
+	    "owner": "Väestörekisterikeskus",
+	    "code_url": "https://github.com/vrk-kpa/ptv-releases",
+	    "service_url": "http://palvelutietovaranto.suomi.fi/",
+	    "homepage_url": "http://palvelutietovaranto.suomi.fi/",
+	    "description": "Suomi.fi-palvelutietovaranto on keskitetty tietovaranto, johon tallennetaan ensisijaisesti Suomessa tarjolla olevia julkisia palveluja sekä palveluun liittyvien asiointikanavien (verkkoasiointi, verkkosivu, tulostettava lomake, puhelinasiointi, palvelupiste) tietoja. Palvelutietovarantoon tietojaan kuvaavat kunnat sekä valtionhallinnon organisaatiot. Yksityisen sektorin organisaatiot saavat käyttöoikeuden myöhemmin 2017."
+	},
+	{
+	    "project": "YleTf",
+	    "owner": "Yleisradio",
+	    "code_url": "https://github.com/Yleisradio/yle_tf",
+	    "service_url": "",
+	    "homepage_url": "https://yle.fi/",
+	    "description": "A wrapper for Terraform with support for hooks and environments."
+	},
+	{
+	    "project": "Yle - API template",
+	    "owner": "Yleisradio",
+	    "code_url": "https://github.com/Yleisradio/yle-api-template",
+	    "service_url": "",
+	    "homepage_url": "https://yle.fi/",
+	    "description": "A Leiningen template for Yle API."
+	},
+	{
+	    "project": "Yle Uutiset Applications",
+	    "owner": "Yleisradio",
+	    "code_url": "https://github.com/Yleisradio/yle-uutiset",
+	    "service_url": "",
+	    "homepage_url": "https://yle.fi/",
+	    "description": "Yle Uutiset Applications."
+	}
     ]
 }
