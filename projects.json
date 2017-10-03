@@ -1,6 +1,14 @@
 {
     "projects": [       
 	{
+            "project": "Omahoito ODA",
+            "owner": "Sosiaali- ja Terveysministeriö",
+            "code_url": "https://github.com/omahoito",
+            "service_url": "https://oda.medidemo.fi/",
+            "homepage_url": "https://oda.medidemo.fi/",
+	    "description": "Omahoito-palvelut tarjoavat kansalaisille uusia mahdollisuuksia oman terveyden hoitoon."
+	},
+	{
             "project": "SmartMet Server - MetOcean data server",
             "owner": "Ilmatieteenlaitos",
             "code_url": "https://github.com/fmidev/smartmet-server",
