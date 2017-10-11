@@ -5,8 +5,6 @@
   $projects.html("<tr><td colspan='4'>Ladataan sisältöä...</td></tr>");
   var $eduprojects = $("#eduprojects");
   $eduprojects.html("<tr><td colspan='4'>Ladataan sisältöä...</td></tr>");
-  console.log("terve terve");
-  console.log($eduprojects);
 	
 	// Load projects
 
@@ -43,15 +41,14 @@
   });
 	
   $.getJSON("eduprojects.json", function(data) {
-     // $eduprojects.html("");
-      console.log(data);
-      data.projects.sort(function(a, b) { 
+      $eduprojects.html("");
+      data.eduprojects.sort(function(a, b) { 
           var ownerA = a.owner.toLowerCase();
           var ownerB = b.owner.toLowerCase();
           return ownerA.localeCompare(ownerB);
       });
 
-      var content = data.projects.map(function (project) {
+      var content = data.eduprojects.map(function (project) {
           var codeUrl = '-',
               serviceUrl = '-';
 
