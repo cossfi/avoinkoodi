@@ -1,5 +1,5 @@
 {
-    "projects": [       
+    "eduprojects": [       
 	{
             "project": "SmartMet Server - MetOcean data server",
             "owner": "Ilmatieteenlaitos",
