@@ -5,6 +5,9 @@
   $projects.html("<tr><td colspan='4'>Ladataan sisältöä...</td></tr>");
   var $eduprojects = $("#eduprojects");
   $eduprojects.html("<tr><td colspan='4'>Ladataan sisältöä...</td></tr>");
+  console.log("terve terve");
+  console.log($eduprojects);
+	
 	// Load projects
 
   $.getJSON("projects.json", function(data) {
@@ -41,8 +44,8 @@
 	
   $.getJSON("eduprojects.json", function(data) {
      // $eduprojects.html("");
-
-      data.projects.sort(function(a, b) {
+      console.log(data);
+      data.projects.sort(function(a, b) { 
           var ownerA = a.owner.toLowerCase();
           var ownerB = b.owner.toLowerCase();
           return ownerA.localeCompare(ownerB);
