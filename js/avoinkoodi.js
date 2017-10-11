@@ -95,7 +95,9 @@
 			}
 		}
 	});
-})
+})(jQuery);
+
+'use strict';
 
 function ($) {
   var $eduprojects = $("#eduprojects");
@@ -192,6 +194,4 @@ function ($) {
 			}
 		}
 	});
-})
-
-(jQuery);
+}) (jQuery);
