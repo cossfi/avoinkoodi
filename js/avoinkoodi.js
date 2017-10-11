@@ -40,7 +40,7 @@
   });
 	
   $.getJSON("eduprojects.json", function(data) {
-      $eduprojects.html("");
+     // $eduprojects.html("");
 
       data.projects.sort(function(a, b) {
           var ownerA = a.owner.toLowerCase();
