@@ -1,6 +1,14 @@
 {
     "projects": [       
 	{
+            "project": "AIRO-verkkotyöpöytä",
+            "owner": "Hämeenlinnan kaupunki",
+            "code_url": "https://github.com/haltu/airo",
+            "service_url": "http://airo.hmledu.fi/",
+            "homepage_url": "http://www.hameenlinna.fi/Palvelut/Koulut-ja-opetus/Kehittamisprojektit/Verkkotyopoyta-Airo/",
+	    "description": "Airo on Hämeenlinnan esi- ja perusopetuksen pilvityöpöytä"	    
+	},
+	{
             "project": "Omahoito ODA",
             "owner": "Sosiaali- ja Terveysministeriö",
             "code_url": "https://github.com/omahoito",
