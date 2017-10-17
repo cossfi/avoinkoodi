@@ -1,6 +1,14 @@
 {
     "eduprojects": [       
 	{
+            "project": "Moodle verkko-oppimisympäristö",
+            "owner": "Moodle Community",
+            "code_url": "https://docs.moodle.org/dev/Main_Page",
+            "service_url": "https://moodle.org/",
+            "homepage_url": "https://moodle.org/",
+	    "description": "Verkko-oppimisympäristö"	    
+	},
+	{
             "project": "AIRO-verkkotyöpöytä",
             "owner": "Hämeenlinnan kaupunki",
             "code_url": "https://github.com/haltu/airo",
