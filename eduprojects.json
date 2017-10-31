@@ -1,6 +1,22 @@
 {
     "eduprojects": [       
 	{
+            "project": "Muikku verkko-oppimisympäristö",
+            "owner": "Otavan Opisto",
+            "code_url": "https://github.com/otavanopisto/muikku",
+            "service_url": "https://otavanopisto.muikkuverkko.fi/",
+            "homepage_url": "https://otavanopisto.muikkuverkko.fi/",
+	    "description": "Verkko-oppimisympäristö"	    
+	},
+	{
+            "project": "Pyramus oppilastietohallintajärjestelmä",
+            "owner": "Otavan Opisto",
+            "code_url": "https://github.com/otavanopisto/pyramus",
+            "service_url": "http://demo.pyramus.fi/",
+            "homepage_url": "http://www.pyramus.fi/",
+	    "description": "Oppilastietohallintajärjestelmä"	    
+	},
+	{
             "project": "Moodle verkko-oppimisympäristö",
             "owner": "Moodle Community",
             "code_url": "https://docs.moodle.org/dev/Main_Page",
