@@ -1,6 +1,22 @@
 {
     "projects": [       
 	{
+            "project": "Muikku verkko-oppimisympäristö",
+            "owner": "Otavan Opisto",
+            "code_url": "https://github.com/otavanopisto/muikku",
+            "service_url": "https://otavanopisto.muikkuverkko.fi/",
+            "homepage_url": "https://otavanopisto.muikkuverkko.fi/",
+	    "description": "Verkko-oppimisympäristö"	    
+	},
+	{
+            "project": "Pyramus oppilastietohallintajärjestelmä",
+            "owner": "Otavan Opisto",
+            "code_url": "https://github.com/otavanopisto/pyramus",
+            "service_url": "http://demo.pyramus.fi/",
+            "homepage_url": "http://www.pyramus.fi/",
+	    "description": "Oppilastietohallintajärjestelmä"	    
+	},
+	{
             "project": "AIRO-verkkotyöpöytä",
             "owner": "Hämeenlinnan kaupunki",
             "code_url": "https://github.com/haltu/airo",
