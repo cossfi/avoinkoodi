@@ -396,7 +396,7 @@
 	    "project": "Finna - Hakupalvelu",
 	    "owner": "Kansalliskirjasto",
 	    "code_url": "https://github.com/NatLibFi/NDL-VuFind2",
-	    "service_url": "",
+	    "service_url": "https://www.finna.fi/",
 	    "homepage_url": "https://www.finna.fi/",
 	    "description": "Finna.fi tuo Suomen museoiden, kirjastojen ja arkistojen aineistot kaikkien saataville."
 	}
