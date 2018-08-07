@@ -34,6 +34,10 @@
 	       "description": {
 		   "description": "A longer description of the project.",
 		   "type": "string"
+		   },
+	       "demo_url": {
+		   "description": "The URL of the project's demo, if such exists.",
+		   "type": "string"
 	       }
 	   },
 	   "required": ["project", "owner", "code_url"]

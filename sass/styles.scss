@@ -117,7 +117,7 @@ html, body {
 		}
 	}
 	
-	@media only screen and (min-width: 768px) {
+	@media only screen and (min-width: 939px) {
 		.menu-open {
 			display:none;	
 		}
@@ -130,7 +130,6 @@ html, body {
 
 	 	  display:block;
 		  width: 100%;
-		  height: 85px;
 		  border-bottom: solid 1px $grey-light;
 
 		  background-color: white;
@@ -146,19 +145,39 @@ html, body {
 					display: inline-block;
 					padding: 0;
 					border-bottom: none;
-					margin: 2rem 2rem;
-
 					list-style: none;
 					font-family: "proxima-nova", sans-serif;
-					text-transform: uppercase;				
+					text-transform: uppercase;	
+					font-size: 0.9rem;
+					transition: .3s all cubic-bezier(.08,.82,.17,1);
+					position: relative;
 
 					a {	
+						display: block;
 						font-style: normal;
-						color: $black;				
-					}
+						color: $black;
+						padding: 1.5rem;
+							
+						&::after {
+							content: "";
+							position: absolute;
+							width: 100%;
+							height: 10px;
+							top: -5px;
+							left: 0;
+							visibility: hidden;
+							-webkit-transform: scaleY(0);
+							transform: scaleY(0);
+							-webkit-transition: all .1s ease-in-out;
+							transition: all .1s ease-in-out;
+							background-color: #39b54a
+						}
 
-					@media only screen and (max-width: 800px) {	
-						margin: 2rem 1rem;
+						&:hover::after {
+							visibility: visible;
+							-webkit-transform: scaleY(1);
+							transform: scaleY(1);
+						}			
 					}
 				}
 			}
@@ -172,16 +191,19 @@ header, section, footer {
 
 header {
 	height: 100%;
-	padding: 6rem 0em;
-
-	background: #fff url("../img/bg-top.jpg") left top no-repeat;
+	width: 100%;
+	padding-top: 6rem;
+	padding-bottom: 3rem;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
 	background-size: cover;
 	
 	h1 {
 		margin-top: 0;
 
 		font-size: 2.5rem;
-		color: $pink;
+		color: $green;
 
 		@media only screen and (min-width : 768px) {
 			margin-top: 6rem;		
@@ -198,11 +220,22 @@ header {
 		&:after {
 	    display: block;
 	    width: 6rem;
-	    border-bottom: 6px $pink solid;
+		border-bottom: 6px $green solid;
 	    margin: 2rem auto;
 
 	    content: " ";
 		}
+	}
+
+	.btn {
+		font-family: "Arial", sans-serif;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 0.95rem;
+	}
+
+	.btn:hover {
+		background-color: #239933;
 	}
 	
 	
@@ -224,6 +257,22 @@ header {
 			margin: 2rem;
 		}
 	}
+}
+
+.index-header {
+	background: #fff url("../img/library.jpg")  no-repeat center top fixed;
+}
+
+.edu-header {
+	background: #fff url("../img/studying.jpg") no-repeat center top fixed;
+}
+
+.valtionhallinto-header {
+	background: #fff url("../img/staircase.jpg") no-repeat center top fixed;
+}
+
+.kunnat-header {
+	background: #fff url("../img/handshake.jpg") no-repeat center top fixed;
 }
 
 section {
@@ -283,6 +332,24 @@ section {
 		}
 	}
 }
+
+.footer-content {
+	display: inline-block;
+	@media only screen and (max-width : 767px) {
+		display: block;
+	}
+}
+
+.footer-content-left {
+	text-align:left;
+	display:inline-block;
+	@media only screen and (max-width : 767px) {
+		display: block;
+		text-align: center;
+	}
+}
+
+
 
 section.grey {
 	height: 100%;
@@ -365,10 +432,16 @@ p.center-text {
 	}
 }
 
-p.link-text {
-	font-family: proxima-nova;
+.link-text {
+	font-family: proxima-nova, sans-serif;
+}
+
+.link-text:hover {
+	text-decoration: underline;
+	color: $green;
 }
 
 @media only screen and (max-width: 1223px) {
 	.content-center, .content, .content-left, .content-right, .container { width: 100%; }
 }
+

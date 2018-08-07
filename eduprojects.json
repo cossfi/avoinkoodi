@@ -1,84 +1,76 @@
 {
     "eduprojects": [       
-	{
+        {
             "project": "Muikku verkko-oppimisympäristö",
             "owner": "Otavan Opisto",
             "code_url": "https://github.com/otavanopisto/muikku",
             "service_url": "https://otavanopisto.muikkuverkko.fi/",
             "homepage_url": "https://otavanopisto.muikkuverkko.fi/",
-	    "description": "Verkko-oppimisympäristö"	    
-	},
-	{
+            "description": "Verkko-oppimisympäristö"	    
+        },
+        {
             "project": "Pyramus oppilastietohallintajärjestelmä",
             "owner": "Otavan Opisto",
             "code_url": "https://github.com/otavanopisto/pyramus",
             "service_url": "http://demo.pyramus.fi/",
             "homepage_url": "http://www.pyramus.fi/",
-	    "description": "Oppilastietohallintajärjestelmä"	    
-	},
-	{
+            "description": "Oppilastietohallintajärjestelmä"	    
+        },
+        {
             "project": "Moodle verkko-oppimisympäristö",
             "owner": "Moodle Community",
             "code_url": "https://docs.moodle.org/dev/Main_Page",
             "service_url": "https://moodle.org/",
             "homepage_url": "https://moodle.org/",
-	    "description": "Verkko-oppimisympäristö"	    
-	},
-	{
+            "description": "Verkko-oppimisympäristö"	    
+        },
+    {
             "project": "AIRO-verkkotyöpöytä",
             "owner": "Hämeenlinnan kaupunki",
             "code_url": "https://github.com/haltu/airo",
             "service_url": "http://airo.hmledu.fi/",
             "homepage_url": "http://www.hameenlinna.fi/Palvelut/Koulut-ja-opetus/Kehittamisprojektit/Verkkotyopoyta-Airo/",
-	    "description": "Airo on Hämeenlinnan esi- ja perusopetuksen pilvityöpöytä"	    
-	},
-	{
-            "project": "Koha – avoimen lähdekoodin kirjastojärjestelmä",
-            "owner": "Kuntien omistama Koha-Suomi Oy",
-            "code_url": "https://github.com/KohaSuomi/kohasuomi",
-            "service_url": "-",
-            "homepage_url": "",
-	    "description": "Suomeen sovitettu versio Koha-kirjastojärjestelmästä."	    
-	},
-	{
+            "description": "Airo on Hämeenlinnan esi- ja perusopetuksen pilvityöpöytä"	    
+        },
+        {
             "project": "Kurssisivut - sisältö ja tietopalvelu",
             "owner": "Helsingin yliopisto",
             "code_url": "https://github.com/UH-StudentServices/coursepages",
             "service_url": "https://courses.helsinki.fi/fi/content/kurssisivu-ja-opetushaut",
             "homepage_url": "",
-	    "description": "Kurssien sisällön hallinta, esittely ja hakupalvelut Drupal-järjestelmän avulla toteutettuna."
-	},
-	{
+            "description": "Kurssien sisällön hallinta, esittely ja hakupalvelut Drupal-järjestelmän avulla toteutettuna."
+        },
+        {
             "project": "Opintoni - omien kurssien ja tapahtumien yhteenveto opiskelijoille",
             "owner": "Helsingin yliopisto",
             "code_url": " https://github.com/UH-StudentServices/mystudies-myteaching-frontend",
             "service_url": "https://courses.helsinki.fi/fi/content/opintoni-ja-opetukseni",
             "homepage_url": "",
-	    "description": "Opiskelijan itsepalvelu omien kurssien ja tapahtumien seurantaan."
-	},	
-	{
+            "description": "Opiskelijan itsepalvelu omien kurssien ja tapahtumien seurantaan."
+        },	
+        {
             "project": "Helsingin, Espoon, Vantaan ja Kauniaisten kaupunkien omistaman avoimen datan Helsinki Region Infoshare -palvelu",
             "owner": "Helsinki, Espoo, Vantaa ja Kauniainen",
             "code_url": "https://github.com/Helsingin-kaupungin-tietokeskus",
             "service_url": "http://www.hri.fi/",
             "homepage_url": "",
-	    "description": "Avoimien aineistojen jakopalvelu"
-	},	
-	{
+            "description": "Avoimien aineistojen jakopalvelu"
+        },	
+        {
             "project": "Skosmos, Suomen kielen sanasto ja thesaurus",
             "owner": "Kansalliskirjasto",
             "code_url": "https://github.com/NatLibFi/Skosmos",
             "service_url": "http://skosmos.org/",	   
             "homepage_url": "http://skosmos.org/",
-	    "description": "Suomen kielen sanasto ja thesaurus. Palvelin, REST-rajapinta ja selaussovellus"	    
-	},
+            "description": "Suomen kielen sanasto ja thesaurus. Palvelin, REST-rajapinta ja selaussovellus"	    
+        },
         {
             "project": "Ammatillisen aikuiskoulutuksen palautejärjestelmä Aipal",
             "owner": "Opetushallitus",
             "code_url": "https://github.com/Opetushallitus/aipal",
             "service_url": "-",
             "homepage_url": "https://confluence.csc.fi/pages/viewpage.action?pageId=53517029",
-	    "description": ""
+            "description": ""
         },
         {
             "project": "Tutkintotoimikuntarekisteri Aitu",
@@ -86,7 +78,7 @@
             "code_url": "https://github.com/Opetushallitus/aitu",
             "service_url": "-",
             "homepage_url": "https://confluence.csc.fi/display/OPHPALV/Tutkintotoimikuntarekisteri",
-	    "description": "Tutkintotoimikuntajärjestelmän ydinjärjestelmä"
+            "description": "Tutkintotoimikuntajärjestelmän ydinjärjestelmä"
         },
         {
             "project": "Todennetun osaamisen rekisteri TOR",
@@ -94,7 +86,7 @@
             "code_url": "https://github.com/Opetushallitus/tor",
             "service_url": "-",
             "homepage_url": "-",
-	    "description": ""
+            "description": ""
         },
         {
             "project": "Hakurekisteri",
@@ -102,7 +94,7 @@
             "code_url": "https://github.com/Opetushallitus/hakurekisteri",
             "service_url": "-",
             "homepage_url": "-",
-	    "description": ""
+            "description": ""
         },
         {
             "project": "osaan.fi -palvelu",
@@ -110,7 +102,7 @@
             "code_url": "https://github.com/Opetushallitus/osaan.fi",
             "service_url": "https://www.osaan.fi",
             "homepage_url": "https://confluence.csc.fi/display/OPHPALV/osaan.fi",
-	    "description": "Palvelu oman ammatillisen osaamisen arvioimiseksi."
+            "description": "Palvelu oman ammatillisen osaamisen arvioimiseksi."
         },
         {
             "project": "näyttötutkintohaku.fi -palvelu",
@@ -118,7 +110,7 @@
             "code_url": "https://github.com/Opetushallitus/aituhaku",
             "service_url": "http://www.nayttotutkintohaku.fi",
             "homepage_url": "https://confluence.csc.fi/pages/viewpage.action?pageId=58826670",
-	    "description": "Palvelu näyttötutkintojen järjestäjien etsimiseen."
+            "description": "Palvelu näyttötutkintojen järjestäjien etsimiseen."
         },
         {
             "project": "Koodistopalvelu",
@@ -126,7 +118,7 @@
             "code_url": "https://github.com/Opetushallitus/koodisto",
             "service_url": "-",
             "homepage_url": "https://confluence.csc.fi/display/OPHPALV/Koodistopalvelu",
-	    "description": ""
+            "description": ""
         },
         {
             "project": "Organisaatiopalvelu",
@@ -134,7 +126,7 @@
             "code_url": "https://github.com/Opetushallitus/organisaatio",
             "service_url": "-",
             "homepage_url": "https://confluence.csc.fi/display/OPHPALV/Organisaatiotietojen+hallintapalvelu",
-	    "description": "Organisaatioiden hallintapalvelu"
+            "description": "Organisaatioiden hallintapalvelu"
         },
         {
             "project": "Tutkintotietojen hallinnan ePerusteet -järjestelmä",
@@ -142,7 +134,7 @@
             "code_url": "https://github.com/Opetushallitus/eperusteet",
             "service_url": "https://eperusteet.opintopolku.fi/",
             "homepage_url": "-",
-	    "description": "Tutkintojen viralliset muodostumissäännöt, suorituskriteerit ja sisällöt hallitaan ePerusteet-järjestelmällä."
+            "description": "Tutkintojen viralliset muodostumissäännöt, suorituskriteerit ja sisällöt hallitaan ePerusteet-järjestelmällä."
         },
         {
             "project": "Valtionavustusten hakujärjestelmä",
@@ -150,7 +142,7 @@
             "code_url": "https://github.com/Opetushallitus/valtionavustus",
             "service_url": "-",
             "homepage_url": "-",
-	    "description": ""
+            "description": ""
         },
         {
             "project": "Korkeakoulujen palautejärjestelmä Arvo",
@@ -158,15 +150,15 @@
             "code_url": "https://github.com/CSC-IT-Center-for-Science/arvo",
             "service_url": "-",
             "homepage_url": "-",
-	    "description": ""
+            "description": ""
         },
-	{
+        {
             "project": "MPASS tunnistusratkaisu (beta)",
             "owner": "OKM & CSC",
             "code_url": "https://github.com/Digipalvelutehdas/MPASS-proxy",	    
             "service_url": "https://mpass-connector.csc.fi/",
             "homepage_url": "http://mpass.fi",
-	    "description": "Heikkojen tunnistusmenetelmien SSO-ratkaisu"
-	}
+            "description": "Heikkojen tunnistusmenetelmien SSO-ratkaisu"
+        }
     ]
 }

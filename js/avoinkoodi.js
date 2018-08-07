@@ -5,71 +5,110 @@
   $projects.html("<tr><td colspan='4'>Ladataan sisältöä...</td></tr>");
   var $eduprojects = $("#eduprojects");
   $eduprojects.html("<tr><td colspan='4'>Ladataan sisältöä...</td></tr>");
+  var $municipalityprojects = $("#municipalityprojects");
+  $municipalityprojects.html("<tr><td colspan='4'>Ladataan sisältöä...</td></tr>");
 	
 	// Load projects
 
-  $.getJSON("projects.json", function(data) {
-      $projects.html("");
+    $.getJSON("projects.json", function(data) {
+        $projects.html("");
 
-      data.projects.sort(function(a, b) {
-          var ownerA = a.owner.toLowerCase();
-          var ownerB = b.owner.toLowerCase();
-          return ownerA.localeCompare(ownerB);
-      });
+        data.projects.sort(function(a, b) {
+            var ownerA = a.owner.toLowerCase();
+            var ownerB = b.owner.toLowerCase();
+            return ownerA.localeCompare(ownerB);
+        });
 
-      var content = data.projects.map(function (project) {
-          var codeUrl = '-',
-              serviceUrl = '-';
+        var content = data.projects.map(function (project) {
+            var codeUrl = '-',
+                serviceUrl = '-';
 
-          if (project.code_url.length > 1) {
-              codeUrl = "<a href='" + $("<td>").text(project.code_url).html() + "'>Näytä lähdekoodi &raquo;</a>";
-          }
+            if (project.code_url.length > 1) {
+                codeUrl = "<a href='" + $("<td>").text(project.code_url).html() + "'>Näytä lähdekoodi &raquo;</a>";
+            }
 
-          if (project.service_url.length > 1) {
-              serviceUrl = "<a href='" + $("<td>").text(project.service_url).html() + "'>Siirry palveluun &raquo;</a>";
-          }
+            if (project.service_url.length > 1) {
+                serviceUrl = "<a href='" + $("<td>").text(project.service_url).html() + "'>Siirry palveluun &raquo;</a>";
+            }
 
-          return "<tr>" +
-                 "<td>" + $("<td>").text(project.owner).html() + "</td>" +
-                 "<td>" + $("<td>").text(project.project).html() + "</td>" +
-                 "<td>" + codeUrl + "</td>" +
-                 "<td>" + serviceUrl + "</td>" +
-                 "</tr>";
-      });
+            return "<tr>" +
+                    "<td>" + $("<td>").text(project.owner).html() + "</td>" +
+                    "<td>" + $("<td>").text(project.project).html() + "</td>" +
+                    "<td>" + codeUrl + "</td>" +
+                    "<td>" + serviceUrl + "</td>" +
+                    "</tr>";
+        });
 
-      $projects.html(content.join(""));
-  });
-	
-  $.getJSON("eduprojects.json", function(data) {
-      $eduprojects.html("");
-      data.eduprojects.sort(function(a, b) { 
-          var ownerA = a.owner.toLowerCase();
-          var ownerB = b.owner.toLowerCase();
-          return ownerA.localeCompare(ownerB);
-      });
+        $projects.html(content.join(""));
+    });
 
-      var content = data.eduprojects.map(function (project) {
-          var codeUrl = '-',
-              serviceUrl = '-';
+    $.getJSON("eduprojects.json", function(data) {
+        $eduprojects.html("");
+        data.eduprojects.sort(function(a, b) { 
+            var ownerA = a.owner.toLowerCase();
+            var ownerB = b.owner.toLowerCase();
+            return ownerA.localeCompare(ownerB);
+        });
 
-          if (project.code_url.length > 1) {
-              codeUrl = "<a href='" + $("<td>").text(project.code_url).html() + "'>Näytä lähdekoodi &raquo;</a>";
-          }
+        var content = data.eduprojects.map(function (project) {
+            var codeUrl = '-',
+                serviceUrl = '-';
 
-          if (project.service_url.length > 1) {
-              serviceUrl = "<a href='" + $("<td>").text(project.service_url).html() + "'>Siirry palveluun &raquo;</a>";
-          }
+            if (project.code_url.length > 1) {
+                codeUrl = "<a href='" + $("<td>").text(project.code_url).html() + "'>Näytä lähdekoodi &raquo;</a>";
+            }
 
-          return "<tr>" +
-                 "<td>" + $("<td>").text(project.owner).html() + "</td>" +
-                 "<td>" + $("<td>").text(project.project).html() + "</td>" +
-                 "<td>" + codeUrl + "</td>" +
-                 "<td>" + serviceUrl + "</td>" +
-                 "</tr>";
-      });
+            if (project.service_url.length > 1) {
+                serviceUrl = "<a href='" + $("<td>").text(project.service_url).html() + "'>Siirry palveluun &raquo;</a>";
+            }
 
-      $eduprojects.html(content.join(""));
-  });
+            return "<tr>" +
+                    "<td>" + $("<td>").text(project.owner).html() + "</td>" +
+                    "<td>" + $("<td>").text(project.project).html() + "</td>" +
+                    "<td>" + codeUrl + "</td>" +
+                    "<td>" + serviceUrl + "</td>" +
+                    "</tr>";
+        });
+
+        $eduprojects.html(content.join(""));
+    });
+
+  
+    $.getJSON("municipalityprojects.json", function(data) {
+        $municipalityprojects.html("");
+        data.municipalityprojects.sort(function(a, b) { 
+            var ownerA = a.owner.toLowerCase();
+            var ownerB = b.owner.toLowerCase();
+            return ownerA.localeCompare(ownerB);
+        });
+
+        var content = data.municipalityprojects.map(function (project) {
+            var codeUrl = '-',
+                serviceUrl = '-',
+                demoUrl = '-';
+
+            if (project.code_url.length > 1) {
+                codeUrl = "<a href='" + $("<td>").text(project.code_url).html() + "'>Näytä lähdekoodi &raquo;</a>";
+            }
+
+            if (project.service_url.length > 1) {
+                serviceUrl = "<a href='" + $("<td>").text(project.service_url).html() + "'>Siirry palveluun &raquo;</a>";
+            }
+            if (project.demo_url.length > 1) {
+            demoUrl = "<a href='" + $("<td>").text(project.demo_url).html() + "'>Siirry demoon &raquo;</a>";
+            }
+
+            return "<tr>" +
+                    "<td>" + $("<td>").text(project.owner).html() + "</td>" +
+                    "<td>" + $("<td>").text(project.project).html() + "</td>" +
+                    "<td>" + codeUrl + "</td>" +
+                    "<td>" + serviceUrl + "</td>" +
+                    "<td>" + demoUrl + "</td>" +
+                    "</tr>";
+        });
+
+        $municipalityprojects.html(content.join(""));
+    });
 
   // Register events
 
@@ -127,5 +166,5 @@
 				$('#gplus-share-count').text(plusOnes);
 			}
 		}
-	});
+    });
 })(jQuery);
