@@ -1,15 +1,6 @@
 {
     "municipalityprojects": [
         {
-            "project": "Pyramus oppilastietohallintajärjestelmä",
-            "owner": "Otavan Opisto",
-            "code_url": "https://github.com/otavanopisto/pyramus",
-            "service_url": "http://demo.pyramus.fi/",
-            "homepage_url": "http://www.pyramus.fi/",
-            "demo_url": "",
-            "description": "Oppilastietohallintajärjestelmä"
-        },
-        {
             "project": "Koha – avoimen lähdekoodin kirjastojärjestelmä",
             "owner": "Kuntien omistama Koha-Suomi Oy",
             "code_url": "https://github.com/KohaSuomi/kohasuomi",
@@ -37,24 +28,6 @@
             "description": "Suomen kielen sanasto ja thesaurus. Palvelin, REST-rajapinta ja selaussovellus"	    
         },
         {
-            "project": "Organisaatiopalvelu",
-            "owner": "Opetushallitus",
-            "code_url": "https://github.com/Opetushallitus/organisaatio",
-            "service_url": "-",
-            "homepage_url": "https://confluence.csc.fi/display/OPHPALV/Organisaatiotietojen+hallintapalvelu",
-            "demo_url": "",
-            "description": "Organisaatioiden hallintapalvelu"
-        },
-        {
-            "project": "Omahoito ODA",
-            "owner": "Sosiaali- ja Terveysministeriö",
-            "code_url": "https://github.com/omahoito",
-            "service_url": "https://oda.medidemo.fi/",
-            "homepage_url": "https://oda.medidemo.fi/",
-            "demo_url": "",
-            "description": "Omahoito-palvelut tarjoavat kansalaisille uusia mahdollisuuksia oman terveyden hoitoon."
-        },
-        {
             "project": "Munpalvelut.fi digitaalinen palvelutori",
             "owner": "Turun kaupunki",
             "code_url": "http://www.turku.fi/github",
@@ -62,133 +35,7 @@
             "homepage_url": "http://www.turku.fi/munpalvelut",
             "demo_url": "",
             "description": "Digitaalinen palvelutori, joka yhdistää palveluiden käyttäjät niitä tuottaviin yrityksiin ja tahoihin."
-        },
-        {
-            "project": "Avoimien aineistojen tiedostopalvelu",
-            "owner": "Maanmittauslaitos",
-            "code_url": "https://github.com/nlsfi/file-download-service",
-            "service_url": "https://tiedostopalvelu.maanmittauslaitos.fi/tp/kartta?lang=en",
-            "homepage_url": "",
-            "demo_url": "",
-            "description": "Avoimien kartta-aineistojen jakopalvelu"
-        },
-        {
-            "project": "Oskari - avoin karttarajapintojen ja -aineistojen integraatioalusta ja asiakasohjelma",
-            "owner": "Maanmittauslaitos",
-            "code_url": "https://github.com/nls-oskari",
-            "service_url": "http://www.oskari.org/",
-            "homepage_url": "http://www.oskari.org/",
-            "demo_url": "",	    
-            "description": "Avoimen kartta-aineiston katseluun ja selailuun tarkoitettu asiakasohjelma"
-        },
-        {
-            "project": "kuntalaisaloite.fi -palvelu",
-            "owner": "Oikeusministeriö",
-            "code_url": "https://github.com/solita/kuntalaisaloite",
-            "service_url": "https://www.kuntalaisaloite.fi/",
-            "homepage_url": "-",
-            "demo_url": "",
-            "description": "Kuntalaisaloite.fi-verkkopalvelussa voit tehdä palvelussa mukana oleville kunnille kuntalaisaloitteita sekä kannattaa ja seurata muiden tekemiä aloitteita."
-        },        
-        {
-            "project": "Nuortenideat",
-            "owner": "Oikeusministeriö",
-            "code_url": "https://github.com/finnishnetsolutions/nuortenideat",
-            "service_url": "https://www.nuortenideat.fi/",
-            "homepage_url": "-",
-            "demo_url": "",
-            "description": "Nuortenideat.fi on valtakunnallinen nuorten vaikuttamispalvelu, jonka avulla nuoret voivat helposti tehdä ehdotuksia, osallistua ja vaikuttaa heitä koskeviin asioihin."
-        }, 
-        {
-            "project": "Otakantaa",
-            "owner": "Oikeusministeriö",
-            "code_url": "https://github.com/finnishnetsolutions/otakantaa",
-            "service_url": "https://www.otakantaa.fi/",
-            "homepage_url": "-",
-            "demo_url": "",
-            "description": "Otakantaa.fi on kansalaisten, järjestöjen ja viranomaisten keskinäistä vuoropuhelua ja osallistumista tehostava verkkopalvelu."
-        }, 
-        {
-            "project": "Rakennetun ympäristön asiointipalvelu Lupapiste",
-            "owner": "Ympäristöministeriö",
-            "code_url": "https://github.com/lupapiste/lupapiste",
-            "service_url": "https://www.lupapiste.fi/",
-            "homepage_url": "-",
-            "demo_url": "",
-            "description": "Lupapiste on sähköinen palvelu, jossa rakennus-, ympäristö- ja yleisten alueiden käyttölupiin liittyvät hakemukset ja aineistot välittyvät kunnan järjestelmiin sähköisessä muodossa. Lupapiste palvelee ensikontaktista tai neuvontapyynnöstä alkaen koko hankkeen ajan aina valmistumiseen saakka."
-        },
-        {
-            "project": "Tarkkailija -palvelu asuinympäristön tapahtumien seurantaan",
-            "owner": "Ympäristöministeriö",
-            "code_url": "https://github.com/solita/Tarkkailija",
-            "service_url": "https://etarkkailija.fi/",
-            "homepage_url": "-",
-            "demo_url": "",
-            "description": "Tarkkailijalla löytää tietoa valitun alueen asumisesta, kaavoituksesta, liikuntamahdollisuuksista, liikenteestä, yhdistystoiminnasta ja päätöksenteosta. Tarkkailija hakee tiedot yli 400:sta kuntien, viranomaisten ja medioiden verkkopalvelusta."
-        },
-        {
-            "project": "Tieverkoston aineistopalvelu Digiroad",
-            "owner": "Liikennevirasto",
-            "code_url": "https://github.com/finnishtransportagency/digiroad2",
-            "service_url": "-",
-            "homepage_url": "-",
-            "demo_url": "",
-            "description": ""
-        },
-        {
-            "project": "Liikennetietopalvelu Digitraffic",
-            "owner": "Liikennevirasto",
-            "code_url": "https://github.com/finnishtransportagency/digitraffic",
-            "service_url": "-",
-            "homepage_url": "-",
-            "demo_url": "",
-            "description": ""
-        },
-        {
-            "project": "Joukkoliikenteen seurantajärjestelmä Juku",
-            "owner": "Liikennevirasto",
-            "code_url": "https://github.com/solita/livijuku",
-            "service_url": "https://juku.liikennevirasto.fi/",
-            "homepage_url": "-",
-            "demo_url": "",
-            "description": ""
-        },
-        {
-            "project": "Avoimen tiedon ja yhteentoimivuuden palvelu avoindata.fi",
-            "owner": "Väestörekisterikeskus",
-            "code_url": "https://github.com/yhteentoimivuuspalvelut/ytp",
-            "service_url": "https://www.avoindata.fi/fi",
-            "homepage_url": "-",
-            "demo_url": "",
-            "description": "Ckan + Drupal + AWS. Räätälöidyt lähdekoodit GitHubista."
-        },
-        {
-            "project": "Apika (PoC)",
-            "owner": "Väestörekisterikeskus",
-            "code_url": "https://github.com/Digipalvelutehdas/apika-dashboard",
-            "service_url": "https://apika.digipalvelutehdas.fi/",
-            "homepage_url": "http://apisuomi.fi/category/apika/",
-            "demo_url": "",
-            "description": "Avoimien rajapintojen hakemisto ja hallintajärjestelmä"
-        },
-        {
-            "project": "Palveluväylän turvapalvelin",
-            "owner": "Väestörekisterikeskus",
-            "code_url": "https://github.com/vrk-kpa/xroad-public",
-            "service_url": "-",
-            "homepage_url": "-",
-            "demo_url": "",
-            "description": ""
-        },
-        {
-            "project": "Liityntäkatalogi",
-            "owner": "Väestörekisterikeskus",
-            "code_url": "https://github.com/vrk-kpa/api-catalog",	    
-            "service_url": "https://liityntakatalogi.suomi.fi/",
-            "homepage_url": "-",
-            "demo_url": "",
-            "description": ""
-        },
+        },    
         {
             "project": "Digitransit, Uuden ajan matkaopas",
             "owner": "HSL & Liikennevirasto",
@@ -208,15 +55,6 @@
             "description": "Avoin rajapinta ja palvelu, joka jakaa tietoa pysäköintipaikoista pääkaupunkiseudulla."
         },
         {
-            "project": "Suomi.fi-tunnistaminen",
-            "owner": "Väestörekisterikeskus",
-            "code_url": "https://github.com/vrk-kpa?utf8=%E2%9C%93&query=e-identification",
-            "service_url": "-",
-            "homepage_url": "http://esuomi.fi/palveluntarjoajille/tunnistaminen/",
-            "demo_url": "",
-            "description": "Suomi.fi-tunnistaminen mahdollistaa Suomen ja EU-kansalaisen sähköisen tunnistamisen tietoturvallisesti erilaisia tunnistusvälineitä, kuten pankkitunnistusta ja mobiilivarmennetta hyödyntäen."
-        },
-        {
             "project": "OpenStreetMap -palveluun pohjautuva palvelukartta",
             "owner": "Helsingin kaupunki",
             "code_url": "https://github.com/City-of-Helsinki/servicemap",
@@ -233,15 +71,6 @@
             "homepage_url": "http://www.kada.fi/",
             "demo_url": "",
             "description": "Turku.fi-alustaan pohjautuva kuntien tarpeisiin tehty Drupal 7 -pohjainen verkkopalvelualusta."
-        },
-        {
-            "project": "Oma riista – Riistahallinnon asiointipalvelu",
-            "owner": "Suomen riistakeskus",
-            "code_url": "https://github.com/suomenriistakeskus",
-            "service_url": "https://oma.riista.fi/",
-            "homepage_url": "https://oma.riista.fi/",
-            "demo_url": "",
-            "description": "Oma riista on sähköisen asioinnin palvelu, jonka avulla metsästäjät voivat pitää kirjaa tehdyistä riistahavainnoista ja saaduista saaliista."
         },
         {
             "project": "Finna - Hakupalvelu",
