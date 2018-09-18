@@ -250,10 +250,10 @@
         },
         {
             "project": "Kokeilun paikka",
-            "owner": "VNK",
+            "owner": "Valtioneuvoston kanslia",
             "code_url": "https://github.com/karolina-engine",
-            "service_url": "www.kokeilunpaikka.fi",
-            "homepage_url": "www.kokeilunpaikka.fi",
+            "service_url": "https://github.com/karolina-engine",
+            "homepage_url": "https://github.com/karolina-engine",
             "description": "Kokeilun paikka on palvelu, jossa kokeiluaihioita yhteiskehitetään ja rahoitetaan, joko joukolla taikka julkisen tai yksityisen hankerahoituksen turvin – ja parhaista otetaan tietenkin opiksi."
         }
     ]
