@@ -247,6 +247,14 @@
             "service_url": "https://www.finna.fi/",
             "homepage_url": "https://www.finna.fi/",
             "description": "Finna.fi tuo Suomen museoiden, kirjastojen ja arkistojen aineistot kaikkien saataville."
+        },
+        {
+            "project": "Kokeilun paikka",
+            "owner": "VNK",
+            "code_url": "https://github.com/karolina-engine",
+            "service_url": "www.kokeilunpaikka.fi",
+            "homepage_url": "www.kokeilunpaikka.fi",
+            "description": "Finna.fi tuo Suomen museoiden, kirjastojen ja arkistojen aineistot kaikkien saataville."
         }
     ]
 }
