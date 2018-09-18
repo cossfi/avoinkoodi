@@ -89,14 +89,6 @@
             "homepage_url": "https://www.kuntaliitto.fi/",
             "demo_url": "https://develop-build-2n55nqa-e52o5fbbuoqug.eu.platform.sh/",
             "description": "kuntaliitto.fi -palvelu"
-        },
-        {
-            "project": "Kokeilun paikka",
-            "owner": "Valtioneuvoston kanslia",
-            "code_url": "https://github.com/karolina-engine",
-            "service_url": "https://www.kokeilunpaikka.fi/fi/",
-            "homepage_url": "https://www.kokeilunpaikka.fi/fi/",
-            "description": "Kokeilun paikka on palvelu, jossa kokeiluaihioita yhteiskehitetään ja rahoitetaan, joko joukolla taikka julkisen tai yksityisen hankerahoituksen turvin – ja parhaista otetaan tietenkin opiksi."
         }
     ]
 }
