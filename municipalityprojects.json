@@ -89,97 +89,15 @@
             "homepage_url": "https://www.kuntaliitto.fi/",
             "demo_url": "https://develop-build-2n55nqa-e52o5fbbuoqug.eu.platform.sh/",
             "description": "kuntaliitto.fi -palvelu"
-        }{
-    "municipalityprojects": [
-        {
-            "project": "Koha – avoimen lähdekoodin kirjastojärjestelmä",
-            "owner": "Kuntien omistama Koha-Suomi Oy",
-            "code_url": "https://github.com/KohaSuomi/kohasuomi",
-            "service_url": "-",
-            "homepage_url": "-",
-            "demo_url": "",
-            "description": "Koha – avoimen lähdekoodin kirjastojärjestelmä"
-        },	
-        {
-            "project": "Helsingin, Espoon, Vantaan ja Kauniaisten kaupunkien omistaman avoimen datan Helsinki Region Infoshare -palvelu",
-            "owner": "Helsinki, Espoo, Vantaa ja Kauniainen",
-            "code_url": "https://github.com/Helsingin-kaupungin-tietokeskus",
-            "service_url": "http://www.hri.fi/",
-            "homepage_url": "",
-            "demo_url": "",
-            "description": "Avoimien aineistojen jakopalvelu"
-        },	
-        {
-            "project": "Skosmos, Suomen kielen sanasto ja thesaurus",
-            "owner": "Kansalliskirjasto",
-            "code_url": "https://github.com/NatLibFi/Skosmos",
-            "service_url": "http://skosmos.org/",	   
-            "homepage_url": "http://skosmos.org/",
-            "demo_url": "",
-            "description": "Suomen kielen sanasto ja thesaurus. Palvelin, REST-rajapinta ja selaussovellus"	    
         },
         {
-            "project": "Munpalvelut.fi digitaalinen palvelutori",
-            "owner": "Turun kaupunki",
-            "code_url": "http://www.turku.fi/github",
-            "service_url": "http://www.munpalvelut.fi/",
-            "homepage_url": "http://www.turku.fi/munpalvelut",
+            "project": "Kokeilun paikka",
+            "owner": "Valtioneuvoston kanslia",
+            "code_url": "https://github.com/karolina-engine",
+            "service_url": "https://www.kokeilunpaikka.fi/fi/",
+            "homepage_url": "https://www.kokeilunpaikka.fi/fi/",
             "demo_url": "",
-            "description": "Digitaalinen palvelutori, joka yhdistää palveluiden käyttäjät niitä tuottaviin yrityksiin ja tahoihin."
-        },    
-        {
-            "project": "Digitransit, Uuden ajan matkaopas",
-            "owner": "HSL & Liikennevirasto",
-            "code_url": "https://github.com/HSLdevcom/digitransit",	    
-            "service_url": "http://beta.digitransit.fi/",
-            "homepage_url": "http://digitransit.fi/",
-            "demo_url": "",
-            "description": ""
-        },
-        {
-            "project": "Liityntäpysäköinnin tietojärjestelmä",
-            "owner": "HSL",
-            "code_url": "https://github.com/HSLdevcom/parkandrideAPI",	    
-            "service_url": "https://p.hsl.fi/#/hubs",
-            "homepage_url": "",
-            "demo_url": "",
-            "description": "Avoin rajapinta ja palvelu, joka jakaa tietoa pysäköintipaikoista pääkaupunkiseudulla."
-        },
-        {
-            "project": "OpenStreetMap -palveluun pohjautuva palvelukartta",
-            "owner": "Helsingin kaupunki",
-            "code_url": "https://github.com/City-of-Helsinki/servicemap",
-            "service_url": " http://servicemap.hel.fi/",
-            "homepage_url": "",
-            "demo_url": "",
-            "description": ""
-        },
-        {
-            "project": "KADA – Kuntien avoin digialusta",
-            "owner": "Turun kaupunki",
-            "code_url": "https://www.turku.fi/github-turkufi",
-            "service_url": "http://www.turku.fi/",
-            "homepage_url": "http://www.kada.fi/",
-            "demo_url": "",
-            "description": "Turku.fi-alustaan pohjautuva kuntien tarpeisiin tehty Drupal 7 -pohjainen verkkopalvelualusta."
-        },
-        {
-            "project": "Finna - Hakupalvelu",
-            "owner": "Kansalliskirjasto",
-            "code_url": "https://github.com/NatLibFi/NDL-VuFind2",
-            "service_url": "https://www.finna.fi/",
-            "homepage_url": "https://www.finna.fi/",
-            "demo_url": "",
-            "description": "Finna.fi tuo Suomen museoiden, kirjastojen ja arkistojen aineistot kaikkien saataville."
-        },
-        {
-            "project": "kuntaliitto.fi -palvelu",
-            "owner": "Kuntaliitto",
-            "code_url": "https://github.com/Kuntaliitto/kuntaliitto.fi",
-            "service_url": "https://www.kuntaliitto.fi/",
-            "homepage_url": "https://www.kuntaliitto.fi/",
-            "demo_url": "https://develop-build-2n55nqa-e52o5fbbuoqug.eu.platform.sh/",
-            "description": "kuntaliitto.fi -palvelu"
+            "description": "Kokeilun paikka on palvelu, jossa kokeiluaihioita yhteiskehitetään ja rahoitetaan, joko joukolla taikka julkisen tai yksityisen hankerahoituksen turvin – ja parhaista otetaan tietenkin opiksi."
         }
     ]
 }
