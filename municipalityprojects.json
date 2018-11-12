@@ -98,6 +98,15 @@
             "homepage_url": "https://www.kokeilunpaikka.fi/fi/",
             "demo_url": "",
             "description": "Kokeilun paikka on palvelu, jossa kokeiluaihioita yhteiskehitetään ja rahoitetaan, joko joukolla taikka julkisen tai yksityisen hankerahoituksen turvin – ja parhaista otetaan tietenkin opiksi."
+        },
+        {
+            "project": "Satakunta Events",
+            "owner": "Porin kaupunki",
+            "code_url": "https://github.com/dymesolutions/satakunta-events-ui",
+            "service_url": "https://satakuntaevents.fi/login",
+            "homepage_url": "https://satakuntaevents.fi/login",
+            "demo_url": "",
+            "description": "Satakunta Events on kaikille avoin ja maksuton tapahtumatietokanta, jonne kaikki voivat syöttää tapahtumansa aiheesta riippumatta."
         }
     ]
 }
