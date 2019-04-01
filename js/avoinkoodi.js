@@ -19,10 +19,9 @@
             return ownerA.localeCompare(ownerB);
         });
 
-        var content = data.projects.map(function (project) {
-            var codeUrl = '-',
-                serviceUrl = '-';
-		demoUrl = '-';
+        var codeUrl = '-',
+                serviceUrl = '-',
+                demoUrl = '-';
 
             if (project.code_url.length > 1) {
                 codeUrl = "<a href='" + $("<td>").text(project.code_url).html() + "'>Näytä lähdekoodi &raquo;</a>";
@@ -31,7 +30,7 @@
             if (project.service_url.length > 1) {
                 serviceUrl = "<a href='" + $("<td>").text(project.service_url).html() + "'>Siirry palveluun &raquo;</a>";
             }
-		if (project.demo_url.length > 1) {
+            if (project.demo_url.length > 1) {
             demoUrl = "<a href='" + $("<td>").text(project.demo_url).html() + "'>Siirry demoon &raquo;</a>";
             }
 
@@ -40,7 +39,7 @@
                     "<td>" + $("<td>").text(project.project).html() + "</td>" +
                     "<td>" + codeUrl + "</td>" +
                     "<td>" + serviceUrl + "</td>" +
-		    "<td>" + demoUrl + "</td>" +
+                    "<td>" + demoUrl + "</td>" +
                     "</tr>";
         });
 
@@ -55,10 +54,9 @@
             return ownerA.localeCompare(ownerB);
         });
 
-        var content = data.eduprojects.map(function (project) {
-            var codeUrl = '-',
-                serviceUrl = '-';
-		demoUrl = '-';
+        var codeUrl = '-',
+                serviceUrl = '-',
+                demoUrl = '-';
 
             if (project.code_url.length > 1) {
                 codeUrl = "<a href='" + $("<td>").text(project.code_url).html() + "'>Näytä lähdekoodi &raquo;</a>";
@@ -67,7 +65,7 @@
             if (project.service_url.length > 1) {
                 serviceUrl = "<a href='" + $("<td>").text(project.service_url).html() + "'>Siirry palveluun &raquo;</a>";
             }
-		if (project.demo_url.length > 1) {
+            if (project.demo_url.length > 1) {
             demoUrl = "<a href='" + $("<td>").text(project.demo_url).html() + "'>Siirry demoon &raquo;</a>";
             }
 
@@ -76,7 +74,7 @@
                     "<td>" + $("<td>").text(project.project).html() + "</td>" +
                     "<td>" + codeUrl + "</td>" +
                     "<td>" + serviceUrl + "</td>" +
-		    "<td>" + demoUrl + "</td>" +
+                    "<td>" + demoUrl + "</td>" +
                     "</tr>";
         });
 
