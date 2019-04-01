@@ -25,9 +25,9 @@
             "description": "Digitaalinen palvelutori, joka yhdistää palveluiden käyttäjät niitä tuottaviin yrityksiin ja tahoihin."
         },	
         {
-            "project": "Helsingin, Espoon, Vantaan ja Kauniaisten kaupunkien omistaman avoimen datan Helsinki Region Infoshare -palvelu",
+            "project": "Helsinki Region Infoshare -palvelu",
             "owner": "Helsinki, Espoo, Vantaa ja Kauniainen",
-            "code_url": "https://github.com/Helsingin-kaupungin-tietokeskus",
+            "code_url": "https://github.com/6aika/sixodp",
             "service_url": "http://www.hri.fi/",
             "homepage_url": "",
             "description": "Avoimien aineistojen jakopalvelu"
