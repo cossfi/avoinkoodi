@@ -12,14 +12,14 @@
 
     $.getJSON("projects.json", function(data) {
         $projects.html("");
-
         data.projects.sort(function(a, b) {
             var ownerA = a.owner.toLowerCase();
             var ownerB = b.owner.toLowerCase();
             return ownerA.localeCompare(ownerB);
         });
 
-        var codeUrl = '-',
+        var content = data.projects.map(function (project) {
+            var codeUrl = '-',
                 serviceUrl = '-',
                 demoUrl = '-';
 
@@ -54,7 +54,8 @@
             return ownerA.localeCompare(ownerB);
         });
 
-        var codeUrl = '-',
+        var content = eduprojects.map(function (project) {
+            var codeUrl = '-',
                 serviceUrl = '-',
                 demoUrl = '-';
 
