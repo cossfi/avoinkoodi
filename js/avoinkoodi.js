@@ -54,7 +54,7 @@
             return ownerA.localeCompare(ownerB);
         });
 
-        var content = eduprojects.map(function (project) {
+        var content = data.eduprojects.map(function (project) {
             var codeUrl = '-',
                 serviceUrl = '-',
                 demoUrl = '-';
