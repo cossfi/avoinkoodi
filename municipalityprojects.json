@@ -11,7 +11,7 @@
         },	
         {
             "project": "Helsinki Region Infoshare -palvelu",
-            "owner": "Helsinki, Espoo, Vantaa, Kauniainen, Tampere, Turku ja Oulu",
+            "owner": "Helsinki, Espoo, Vantaa ja Kauniainen",
             "code_url": "https://github.com/6aika/sixodp",
             "service_url": "http://www.hri.fi/",
             "homepage_url": "",
