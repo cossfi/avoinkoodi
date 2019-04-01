@@ -6,6 +6,7 @@
             "code_url": "https://github.com/otavanopisto/muikku",
             "service_url": "https://otavanopisto.muikkuverkko.fi/",
             "homepage_url": "https://otavanopisto.muikkuverkko.fi/",
+            "demo_url": "",
             "description": "Verkko-oppimisympäristö"	    
         },
         {
@@ -14,6 +15,7 @@
             "code_url": "https://github.com/otavanopisto/pyramus",
             "service_url": "http://demo.pyramus.fi/",
             "homepage_url": "http://www.pyramus.fi/",
+            "demo_url": "",
             "description": "Oppilastietohallintajärjestelmä"	    
         },
         {
@@ -22,6 +24,7 @@
             "code_url": "https://docs.moodle.org/dev/Main_Page",
             "service_url": "https://moodle.org/",
             "homepage_url": "https://moodle.org/",
+            "demo_url": "",
             "description": "Verkko-oppimisympäristö"	    
         },
     {
@@ -30,6 +33,7 @@
             "code_url": "https://github.com/haltu/airo",
             "service_url": "http://airo.hmledu.fi/",
             "homepage_url": "http://www.hameenlinna.fi/Palvelut/Koulut-ja-opetus/Kehittamisprojektit/Verkkotyopoyta-Airo/",
+            "demo_url": "",
             "description": "Airo on Hämeenlinnan esi- ja perusopetuksen pilvityöpöytä"	    
         },
         {
@@ -38,6 +42,7 @@
             "code_url": "https://github.com/UH-StudentServices/coursepages",
             "service_url": "https://courses.helsinki.fi/fi/content/kurssisivu-ja-opetushaut",
             "homepage_url": "",
+            "demo_url": "",
             "description": "Kurssien sisällön hallinta, esittely ja hakupalvelut Drupal-järjestelmän avulla toteutettuna."
         },
         {
@@ -46,6 +51,7 @@
             "code_url": " https://github.com/UH-StudentServices/mystudies-myteaching-frontend",
             "service_url": "https://courses.helsinki.fi/fi/content/opintoni-ja-opetukseni",
             "homepage_url": "",
+            "demo_url": "",
             "description": "Opiskelijan itsepalvelu omien kurssien ja tapahtumien seurantaan."
         },	
         {
@@ -54,6 +60,7 @@
             "code_url": "https://github.com/6aika/sixodp",
             "service_url": "http://www.hri.fi/",
             "homepage_url": "",
+            "demo_url": "",
             "description": "Avoimien aineistojen jakopalvelu"
         },	
         {
@@ -62,6 +69,7 @@
             "code_url": "https://github.com/NatLibFi/Skosmos",
             "service_url": "http://skosmos.org/",	   
             "homepage_url": "http://skosmos.org/",
+            "demo_url": "",
             "description": "Suomen kielen sanasto ja thesaurus. Palvelin, REST-rajapinta ja selaussovellus"	    
         },
         {
@@ -70,6 +78,7 @@
             "code_url": "https://github.com/Opetushallitus/aipal",
             "service_url": "-",
             "homepage_url": "https://confluence.csc.fi/pages/viewpage.action?pageId=53517029",
+            "demo_url": "",
             "description": ""
         },
         {
@@ -78,6 +87,7 @@
             "code_url": "https://github.com/Opetushallitus/aitu",
             "service_url": "-",
             "homepage_url": "https://confluence.csc.fi/display/OPHPALV/Tutkintotoimikuntarekisteri",
+            "demo_url": "",
             "description": "Tutkintotoimikuntajärjestelmän ydinjärjestelmä"
         },
         {
@@ -86,6 +96,7 @@
             "code_url": "https://github.com/Opetushallitus/tor",
             "service_url": "-",
             "homepage_url": "-",
+            "demo_url": "",
             "description": ""
         },
         {
@@ -94,6 +105,7 @@
             "code_url": "https://github.com/Opetushallitus/hakurekisteri",
             "service_url": "-",
             "homepage_url": "-",
+            "demo_url": "",
             "description": ""
         },
         {
@@ -102,6 +114,7 @@
             "code_url": "https://github.com/Opetushallitus/osaan.fi",
             "service_url": "https://www.osaan.fi",
             "homepage_url": "https://confluence.csc.fi/display/OPHPALV/osaan.fi",
+            "demo_url": "",
             "description": "Palvelu oman ammatillisen osaamisen arvioimiseksi."
         },
         {
@@ -110,6 +123,7 @@
             "code_url": "https://github.com/Opetushallitus/aituhaku",
             "service_url": "http://www.nayttotutkintohaku.fi",
             "homepage_url": "https://confluence.csc.fi/pages/viewpage.action?pageId=58826670",
+            "demo_url": "",
             "description": "Palvelu näyttötutkintojen järjestäjien etsimiseen."
         },
         {
@@ -118,6 +132,7 @@
             "code_url": "https://github.com/Opetushallitus/koodisto",
             "service_url": "-",
             "homepage_url": "https://confluence.csc.fi/display/OPHPALV/Koodistopalvelu",
+            "demo_url": "",
             "description": ""
         },
         {
@@ -126,6 +141,7 @@
             "code_url": "https://github.com/Opetushallitus/organisaatio",
             "service_url": "-",
             "homepage_url": "https://confluence.csc.fi/display/OPHPALV/Organisaatiotietojen+hallintapalvelu",
+            "demo_url": "",
             "description": "Organisaatioiden hallintapalvelu"
         },
         {
@@ -134,6 +150,7 @@
             "code_url": "https://github.com/Opetushallitus/eperusteet",
             "service_url": "https://eperusteet.opintopolku.fi/",
             "homepage_url": "-",
+            "demo_url": "",
             "description": "Tutkintojen viralliset muodostumissäännöt, suorituskriteerit ja sisällöt hallitaan ePerusteet-järjestelmällä."
         },
         {
@@ -142,6 +159,7 @@
             "code_url": "https://github.com/Opetushallitus/valtionavustus",
             "service_url": "-",
             "homepage_url": "-",
+            "demo_url": "",
             "description": ""
         },
         {
@@ -150,6 +168,7 @@
             "code_url": "https://github.com/CSC-IT-Center-for-Science/arvo",
             "service_url": "-",
             "homepage_url": "-",
+            "demo_url": "",
             "description": ""
         },
         {
@@ -158,6 +177,7 @@
             "code_url": "https://github.com/Digipalvelutehdas/MPASS-proxy",	    
             "service_url": "https://mpass-connector.csc.fi/",
             "homepage_url": "http://mpass.fi",
+            "demo_url": "",
             "description": "Heikkojen tunnistusmenetelmien SSO-ratkaisu"
         }
     ]
