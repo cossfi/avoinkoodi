@@ -6,7 +6,7 @@
             "code_url": "https://github.com/omahoito",
             "service_url": "https://oda.medidemo.fi/",
             "homepage_url": "https://oda.medidemo.fi/",
-            "demo_url": "",
+            "demo_url": "-",
             "description": "Omahoito-palvelut tarjoavat kansalaisille uusia mahdollisuuksia oman terveyden hoitoon."
         },
         {
@@ -15,7 +15,7 @@
             "code_url": "https://github.com/fmidev/smartmet-server",
             "service_url": "-",
             "homepage_url": "http://ilmatieteenlaitos.fi/avoin-lahdekoodi",
-            "demo_url": "",
+            "demo_url": "-",
             "description": "Ilmatieteenlaitoksen MetOcean-säädatan hallintaan käytetty järjestelmä."
         },
         {
@@ -24,7 +24,7 @@
             "code_url": "http://www.turku.fi/github",
             "service_url": "http://www.munpalvelut.fi/",
             "homepage_url": "http://www.turku.fi/munpalvelut",
-            "demo_url": "",
+            "demo_url": "-",
             "description": "Digitaalinen palvelutori, joka yhdistää palveluiden käyttäjät niitä tuottaviin yrityksiin ja tahoihin."
         },	
         {
@@ -32,7 +32,7 @@
             "owner": "Helsinki, Espoo, Vantaa ja Kauniainen",
             "code_url": "https://github.com/6aika/sixodp",
             "service_url": "http://www.hri.fi/",
-            "homepage_url": "",
+            "homepage_url": "-",
             "demo_url": "https://generic-qa.dataportaali.com/fi/",
             "description": "Avoimien aineistojen jakopalvelu"
         },	
@@ -42,7 +42,7 @@
             "code_url": "https://github.com/NatLibFi/Skosmos",
             "service_url": "http://skosmos.org/",	   
             "homepage_url": "http://skosmos.org/",
-            "demo_url": "",
+            "demo_url": "-",
             "description": "Suomen kielen sanasto ja thesaurus. Palvelin, REST-rajapinta ja selaussovellus"	    
         },
         {
@@ -50,8 +50,8 @@
             "owner": "Maanmittauslaitos",
             "code_url": "https://github.com/nlsfi/file-download-service",
             "service_url": "https://tiedostopalvelu.maanmittauslaitos.fi/tp/kartta?lang=en",
-            "homepage_url": "",
-            "demo_url": "",
+            "homepage_url": "-",
+            "demo_url": "-",
             "description": "Avoimien kartta-aineistojen jakopalvelu"
         },
         {
@@ -60,7 +60,7 @@
             "code_url": "https://github.com/nls-oskari",
             "service_url": "http://www.oskari.org/",
             "homepage_url": "http://www.oskari.org/",
-            "demo_url": "",
+            "demo_url": "-",
             "description": "Avoimen kartta-aineiston katseluun ja selailuun tarkoitettu asiakasohjelma"
         },
         {
@@ -69,7 +69,7 @@
             "code_url": "https://github.com/solita/kuntalaisaloite",
             "service_url": "https://www.kuntalaisaloite.fi/",
             "homepage_url": "-",
-            "demo_url": "",
+            "demo_url": "-",
             "description": "Kuntalaisaloite.fi-verkkopalvelussa voit tehdä palvelussa mukana oleville kunnille kuntalaisaloitteita sekä kannattaa ja seurata muiden tekemiä aloitteita."
         },        
         {
@@ -78,7 +78,7 @@
             "code_url": "https://github.com/finnishnetsolutions/nuortenideat",
             "service_url": "https://www.nuortenideat.fi/",
             "homepage_url": "-",
-            "demo_url": "",
+            "demo_url": "-",
             "description": "Nuortenideat.fi on valtakunnallinen nuorten vaikuttamispalvelu, jonka avulla nuoret voivat helposti tehdä ehdotuksia, osallistua ja vaikuttaa heitä koskeviin asioihin."
         }, 
         {
@@ -87,7 +87,7 @@
             "code_url": "https://github.com/finnishnetsolutions/otakantaa",
             "service_url": "https://www.otakantaa.fi/",
             "homepage_url": "-",
-            "demo_url": "",
+            "demo_url": "-",
             "description": "Otakantaa.fi on kansalaisten, järjestöjen ja viranomaisten keskinäistä vuoropuhelua ja osallistumista tehostava verkkopalvelu."
         }, 
         {
@@ -96,7 +96,7 @@
             "code_url": "https://github.com/lupapiste/lupapiste",
             "service_url": "https://www.lupapiste.fi/",
             "homepage_url": "-",
-            "demo_url": "",
+            "demo_url": "-",
             "description": "Lupapiste on sähköinen palvelu, jossa rakennus-, ympäristö- ja yleisten alueiden käyttölupiin liittyvät hakemukset ja aineistot välittyvät kunnan järjestelmiin sähköisessä muodossa. Lupapiste palvelee ensikontaktista tai neuvontapyynnöstä alkaen koko hankkeen ajan aina valmistumiseen saakka."
         },
         {
@@ -105,7 +105,7 @@
             "code_url": "https://github.com/solita/Tarkkailija",
             "service_url": "https://etarkkailija.fi/",
             "homepage_url": "-",
-            "demo_url": "",
+            "demo_url": "-",
             "description": "Tarkkailijalla löytää tietoa valitun alueen asumisesta, kaavoituksesta, liikuntamahdollisuuksista, liikenteestä, yhdistystoiminnasta ja päätöksenteosta. Tarkkailija hakee tiedot yli 400:sta kuntien, viranomaisten ja medioiden verkkopalvelusta."
         },
         {
@@ -114,8 +114,8 @@
             "code_url": "https://github.com/finnishtransportagency/digiroad2",
             "service_url": "-",
             "homepage_url": "-",
-            "demo_url": "",
-            "description": ""
+            "demo_url": "-",
+            "description": "-"
         },
         {
             "project": "Liikennetietopalvelu Digitraffic",
@@ -123,8 +123,8 @@
             "code_url": "https://github.com/finnishtransportagency/digitraffic",
             "service_url": "-",
             "homepage_url": "-",
-            "demo_url": "",
-            "description": ""
+            "demo_url": "-",
+            "description": "-"
         },
         {
             "project": "Joukkoliikenteen seurantajärjestelmä Juku",
@@ -132,8 +132,8 @@
             "code_url": "https://github.com/solita/livijuku",
             "service_url": "https://juku.liikennevirasto.fi/",
             "homepage_url": "-",
-            "demo_url": "",
-            "description": ""
+            "demo_url": "-",
+            "description": "-"
         },
         {
             "project": "Korkeakoulujen palautejärjestelmä Arvo",
@@ -141,8 +141,8 @@
             "code_url": "https://github.com/CSC-IT-Center-for-Science/arvo",
             "service_url": "-",
             "homepage_url": "-",
-            "demo_url": "",
-            "description": ""
+            "demo_url": "-",
+            "description": "-"
         },
         {
             "project": "Avoimen tiedon ja yhteentoimivuuden palvelu avoindata.fi",
@@ -150,7 +150,7 @@
             "code_url": "https://github.com/yhteentoimivuuspalvelut/ytp",
             "service_url": "https://www.avoindata.fi/fi",
             "homepage_url": "-",
-            "demo_url": "",
+            "demo_url": "-",
             "description": "Ckan + Drupal + AWS. Räätälöidyt lähdekoodit GitHubista."
         },
         {
@@ -159,7 +159,7 @@
             "code_url": "https://github.com/Digipalvelutehdas/apika-dashboard",
             "service_url": "https://apika.digipalvelutehdas.fi/",
             "homepage_url": "http://apisuomi.fi/category/apika/",
-            "demo_url": "",
+            "demo_url": "-",
             "description": "Avoimien rajapintojen hakemisto ja hallintajärjestelmä"
         },
         {
@@ -168,8 +168,8 @@
             "code_url": "https://github.com/vrk-kpa/xroad-public",
             "service_url": "-",
             "homepage_url": "-",
-            "demo_url": "",
-            "description": ""
+            "demo_url": "-",
+            "description": "-"
         },
         {
             "project": "Liityntäkatalogi",
@@ -177,8 +177,8 @@
             "code_url": "https://github.com/vrk-kpa/api-catalog",	    
             "service_url": "https://liityntakatalogi.suomi.fi/",
             "homepage_url": "-",
-            "demo_url": "",
-            "description": ""
+            "demo_url": "-",
+            "description": "-"
         },
         {
             "project": "Digitransit, Uuden ajan matkaopas",
@@ -186,16 +186,16 @@
             "code_url": "https://github.com/HSLdevcom/digitransit",	    
             "service_url": "http://beta.digitransit.fi/",
             "homepage_url": "http://digitransit.fi/",
-            "demo_url": "",
-            "description": ""
+            "demo_url": "-",
+            "description": "-"
         },
         {
             "project": "Liityntäpysäköinnin tietojärjestelmä",
             "owner": "HSL",
             "code_url": "https://github.com/HSLdevcom/parkandrideAPI",	    
             "service_url": "https://p.hsl.fi/#/hubs",
-            "homepage_url": "",
-            "demo_url": "",
+            "homepage_url": "-",
+            "demo_url": "-",
             "description": "Avoin rajapinta ja palvelu, joka jakaa tietoa pysäköintipaikoista pääkaupunkiseudulla."
         },
         {
@@ -204,7 +204,7 @@
             "code_url": "https://github.com/vrk-kpa?utf8=%E2%9C%93&query=e-identification",
             "service_url": "-",
             "homepage_url": "http://esuomi.fi/palveluntarjoajille/tunnistaminen/",
-            "demo_url": "",
+            "demo_url": "-",
             "description": "Suomi.fi-tunnistaminen mahdollistaa Suomen ja EU-kansalaisen sähköisen tunnistamisen tietoturvallisesti erilaisia tunnistusvälineitä, kuten pankkitunnistusta ja mobiilivarmennetta hyödyntäen."
         },
         {
@@ -212,9 +212,9 @@
             "owner": "Helsingin kaupunki",
             "code_url": "https://github.com/City-of-Helsinki/servicemap",
             "service_url": " http://servicemap.hel.fi/",
-            "homepage_url": "",
-            "demo_url": "",
-            "description": ""
+            "homepage_url": "-",
+            "demo_url": "-",
+            "description": "-"
         },
         {
             "project": "Harja",
@@ -222,7 +222,7 @@
             "code_url": "https://github.com/finnishtransportagency/harja",
             "service_url": "http://finnishtransportagency.github.io/harja/",
             "homepage_url": "http://finnishtransportagency.github.io/harja/",
-            "demo_url": "",
+            "demo_url": "-",
             "description": "Liikenneviraston väylien kunnossapidon seurannan ja raportoinnin tietojärjestelmä Harja"
         },
         {
@@ -231,7 +231,7 @@
             "code_url": "https://github.com/suomenriistakeskus",
             "service_url": "https://oma.riista.fi/",
             "homepage_url": "https://oma.riista.fi/",
-            "demo_url": "",
+            "demo_url": "-",
             "description": "Oma riista on sähköisen asioinnin palvelu, jonka avulla metsästäjät voivat pitää kirjaa tehdyistä riistahavainnoista ja saaduista saaliista."
         },
         {
@@ -240,34 +240,34 @@
             "code_url": "https://github.com/vrk-kpa/ptv-releases",
             "service_url": "http://palvelutietovaranto.suomi.fi/",
             "homepage_url": "http://palvelutietovaranto.suomi.fi/",
-            "demo_url": "",
+            "demo_url": "-",
             "description": "Suomi.fi-palvelutietovaranto on keskitetty tietovaranto, johon tallennetaan ensisijaisesti Suomessa tarjolla olevia julkisia palveluja sekä palveluun liittyvien asiointikanavien (verkkoasiointi, verkkosivu, tulostettava lomake, puhelinasiointi, palvelupiste) tietoja. Palvelutietovarantoon tietojaan kuvaavat kunnat sekä valtionhallinnon organisaatiot. Yksityisen sektorin organisaatiot saavat käyttöoikeuden myöhemmin 2017."
         },
         {
             "project": "YleTf",
             "owner": "Yleisradio",
             "code_url": "https://github.com/Yleisradio/yle_tf",
-            "service_url": "",
+            "service_url": "-",
             "homepage_url": "https://yle.fi/",
-            "demo_url": "",
+            "demo_url": "-",
             "description": "A wrapper for Terraform with support for hooks and environments."
         },
         {
             "project": "Yle - API template",
             "owner": "Yleisradio",
             "code_url": "https://github.com/Yleisradio/yle-api-template",
-            "service_url": "",
+            "service_url": "-",
             "homepage_url": "https://yle.fi/",
-            "demo_url": "",
+            "demo_url": "-",
             "description": "A Leiningen template for Yle API."
         },
         {
             "project": "Yle Uutiset Applications",
             "owner": "Yleisradio",
             "code_url": "https://github.com/Yleisradio/yle-uutiset",
-            "service_url": "",
+            "service_url": "-",
             "homepage_url": "https://yle.fi/",
-            "demo_url": "",
+            "demo_url": "-",
             "description": "Yle Uutiset Applications."
         },
         {
@@ -276,7 +276,7 @@
             "code_url": "https://github.com/NatLibFi/NDL-VuFind2",
             "service_url": "https://www.finna.fi/",
             "homepage_url": "https://www.finna.fi/",
-            "demo_url": "",
+            "demo_url": "-",
             "description": "Finna.fi tuo Suomen museoiden, kirjastojen ja arkistojen aineistot kaikkien saataville."
         },
         {
@@ -285,7 +285,7 @@
             "code_url": "https://github.com/karolina-engine",
             "service_url": "https://www.kokeilunpaikka.fi/fi/",
             "homepage_url": "https://www.kokeilunpaikka.fi/fi/",
-            "demo_url": "",
+            "demo_url": "-",
             "description": "Kokeilun paikka on palvelu, jossa kokeiluaihioita yhteiskehitetään ja rahoitetaan, joko joukolla taikka julkisen tai yksityisen hankerahoituksen turvin – ja parhaista otetaan tietenkin opiksi."
         }
     ]
