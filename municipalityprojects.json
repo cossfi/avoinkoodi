@@ -109,7 +109,7 @@
             "description": "Satakunta Events on kaikille avoin ja maksuton tapahtumatietokanta, jonne kaikki voivat syöttää tapahtumansa aiheesta riippumatta."
         },
         {
-            "project": "Tapahtumakalenteri Drupal 8 -sivulle",
+            "project": "Pori Events -tapahtumakalenteri (Drupal 8)",
             "owner": "Porin kaupunki",
             "code_url": "https://github.com/City-of-Pori/pori-events",
             "service_url": "https://tapahtumat.pori.fi/",
