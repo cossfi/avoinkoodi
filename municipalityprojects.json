@@ -116,6 +116,15 @@
             "homepage_url": "https://tapahtumat.pori.fi/",
             "demo_url": "-",
             "description": "Tapahtumakalenteri Drupal 8 -sivulle"
+        },
+        {
+            "project": "Sisällönhallintajärjestelmä (Drupal 8)",
+            "owner": "Suomen Kuntaliitto ry",
+            "code_url": "https://github.com/Kuntaliitto/kuntafibase",
+            "service_url": "-",
+            "homepage_url": "-",
+            "demo_url": "https://master-7rqtwti-x24xhsbg7dscs.eu-2.platformsh.site/",
+            "description": "Drupal 8 sisällönhallintajärjestelmä"
         }
     ]
 }
