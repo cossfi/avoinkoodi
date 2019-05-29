@@ -296,6 +296,15 @@
             "homepage_url": "https://www.sitoumus2050.fi/",
             "demo_url": "-",
             "description": "Sitoumus2050.fi on verkkopalvelu, jossa organisaatiot, yritykset ja yksityiset henkilöt voivat antaa kestävän kehityksen toimenpidesitoumuksia ja ideoita."
+        },
+        {
+            "project": "NAP-liikkumispalvelukatalogi",
+            "owner": "Liikenne- ja viestintävirasto Traficom",
+            "code_url": "https://github.com/finnishtransportagency/mmtis-national-access-point/",
+            "service_url": "https://finap.fi/#/",
+            "homepage_url": "https://finap.fi/#/",
+            "demo_url": "-",
+            "description": "NAP-liikkumispalvelukatalogi on avoin kansallinen yhteyspiste (National Access Point, NAP), johon liikkumispalvelun tuottajien on toimitettava tietoja digitaalisista olennaisten tietojen koneluettavista rajapinnoistaan."
         }
     ]
 }
