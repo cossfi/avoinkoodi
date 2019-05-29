@@ -137,7 +137,7 @@
         },
         {
             "project": "NAP-liikkumispalvelukatalogi",
-            "owner": "Liikenne- ja viesintävirasto Traficom",
+            "owner": "Liikenne- ja viestintävirasto Traficom",
             "code_url": "https://github.com/finnishtransportagency/mmtis-national-access-point/",
             "service_url": "https://www.sitoumus2050.fi/",
             "homepage_url": "https://finap.fi/#/",
