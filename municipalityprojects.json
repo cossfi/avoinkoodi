@@ -143,6 +143,15 @@
             "homepage_url": "https://finap.fi/#/",
             "demo_url": "-",
             "description": "NAP-liikkumispalvelukatalogi on avoin kansallinen yhteyspiste (National Access Point, NAP), johon liikkumispalvelun tuottajien on toimitettava tietoja digitaalisista olennaisten tietojen koneluettavista rajapinnoistaan."
+        },
+        {
+            "project": "Tavastia Events",
+            "owner": "Avoin Häme-hanke",
+            "code_url": "https://github.com/hamk-uas/TavastiaEvents",
+            "service_url": "https://api.tavastiaevents.fi/v1/",
+            "homepage_url": "https://api.tavastiaevents.fi/v1/",
+            "demo_url": "-",
+            "description": "Tavastia Events on AvoinHäme-hankkeessa Helsingin kaupungin/6Aika hankkeen kehittämän Linked events-tapahtumarajapinnan muokattu versio."
         }
     ]
 }
