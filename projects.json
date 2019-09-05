@@ -323,6 +323,15 @@
             "homepage_url": "https://www.lupatehdatoisin.fi/",
             "demo_url": "-",
             "description": "LATU-toimintamallin esittelysivusto, jolla edistetään henkilöstön tuloksellisuutta. Verkkopalvelu on toteutettu avoimen lähdekoodin WordPress-julkaisujärjestelmällä sekä avoimesta lisensoitua Aucorin Starter-teemaa hyödyntäen."
+        },
+        {
+            "project": "Oiva-valvonta­tietojen hakemisto",
+            "owner": "Ruokavirasto",
+            "code_url": "https://github.com/aucor/aucor-starter",
+            "service_url": "https://www.oivahymy.fi/",
+            "homepage_url": "https://www.oivahymy.fi/",
+            "demo_url": "-",
+            "description": "Oiva-valvontatiedot on Ruokaviraston julkaisema verkkopalvelu, josta voi tarkistaa kaikkien ravitsemusliikkeiden valvontatiedot. Verkkopalvelu on toteutettu avoimen lähdekoodin WordPress-julkaisujärjestelmällä sekä avoimesta lisensoitua Aucorin Starter-teemaa hyödyntäen."
         }
     ]
 }
