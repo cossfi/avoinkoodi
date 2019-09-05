@@ -314,6 +314,15 @@
             "homepage_url": "https://toolbox.finland.fi/",
             "demo_url": "-",
             "description": "Finland Toolbox on materiaalipankki joka palvelee eri tahoja jotka markkinoivat Suomea tai etsivät Suomen kannalta positiivisia tietoja. Verkkopalvelu on toteutettu avoimen lähdekoodin WordPress-julkaisujärjestelmällä sekä avoimesta lisensoitua Aucorin Starter-teemaa hyödyntäen."
+        },
+        {
+            "project": "Lupa tehdä toisin / LATU-toimintamallin sivusto",
+            "owner": "Sitra",
+            "code_url": "https://github.com/aucor/aucor-starter",
+            "service_url": "https://www.lupatehdatoisin.fi/",
+            "homepage_url": "https://www.lupatehdatoisin.fi/",
+            "demo_url": "-",
+            "description": "LATU-toimintamallin esittelysivusto, jolla edistetään henkilöstön tuloksellisuutta. Verkkopalvelu on toteutettu avoimen lähdekoodin WordPress-julkaisujärjestelmällä sekä avoimesta lisensoitua Aucorin Starter-teemaa hyödyntäen."
         }
     ]
 }
