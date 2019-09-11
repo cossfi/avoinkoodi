@@ -71,7 +71,16 @@
             "homepage_url": "-",
             "demo_url": "-",
             "description": "Kuntalaisaloite.fi-verkkopalvelussa voit tehdä palvelussa mukana oleville kunnille kuntalaisaloitteita sekä kannattaa ja seurata muiden tekemiä aloitteita."
-        },        
+        },
+        {
+            "project": "kansalaisaloite.fi -palvelu",
+            "owner": "Oikeusministeriö",
+            "code_url": "https://gitlab.vismaconsulting.fi/public-ork/kansalaisaloite",
+            "service_url": "https://kansalaisaloite.fi/",
+            "homepage_url": "-",
+            "demo_url": "-",
+            "description": "Oikeusministeriön ylläpitämässä kansalaisaloite.fi-verkkopalvelussa voit tehdä kansalaisaloitteen sekä kannattaa palvelussa avoinna olevia aloitteita. "
+        },
         {
             "project": "Nuortenideat",
             "owner": "Oikeusministeriö",
