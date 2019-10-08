@@ -38,9 +38,9 @@
         },    
         {
             "project": "Digitransit, Uuden ajan matkaopas",
-            "owner": "HSL & Liikennevirasto",
+            "owner": "HSL & Väylävirasto",
             "code_url": "https://github.com/HSLdevcom/digitransit",	    
-            "service_url": "http://beta.digitransit.fi/",
+            "service_url": "http://digitransit.fi/",
             "homepage_url": "http://digitransit.fi/",
             "demo_url": "",
             "description": ""
