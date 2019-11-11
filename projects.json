@@ -349,7 +349,7 @@
             "service_url": "-",
             "homepage_url": "https://hub.docker.com/r/oikeusministerio/common-conversion",
             "demo_url": "-",
-            "description": "REST-rajapinnan tarjoava kontti asiakirjojen (esim. Microsoft Office -tiedostot automaattiseen muuntamiseen PDF/A-muotoon."
+            "description": "REST-rajapinnan tarjoava kontti asiakirjojen (esim. Microsoft Office -tiedostot) automaattiseen muuntamiseen PDF/A-muotoon."
         }
     ]
 }
