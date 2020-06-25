@@ -344,7 +344,7 @@
         },
         {
             "project": "Merihavainnot.fi",
-            "owner": "Ilmatieteenlaitos, Suomen ympäristökeskus (SYKE)",
+            "owner": "Suomen ympäristökeskus SYKE",
             "code_url": "https://github.com/sykefi/marinedataportal",
             "service_url": "https://merihavainnot.ymparisto.fi/merihavainnot/",
             "homepage_url": "https://merihavainnot.ymparisto.fi/merihavainnot/",
