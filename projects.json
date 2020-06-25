@@ -341,6 +341,15 @@
             "homepage_url": "https://www.oivahymy.fi/",
             "demo_url": "-",
             "description": "Oiva-valvontatiedot on Ruokaviraston julkaisema verkkopalvelu, josta voi tarkistaa kaikkien ravitsemusliikkeiden valvontatiedot. Verkkopalvelu on toteutettu avoimen lähdekoodin WordPress-julkaisujärjestelmällä sekä avoimesta lisensoitua Aucorin Starter-teemaa hyödyntäen."
+        },
+        {
+            "project": "Merihavainnot.fi",
+            "owner": "Ilmatieteenlaitos, Suomen ympäristökeskus (SYKE)",
+            "code_url": "https://github.com/sykefi/marinedataportal",
+            "service_url": "https://merihavainnot.ymparisto.fi/merihavainnot/",
+            "homepage_url": "https://merihavainnot.ymparisto.fi/merihavainnot/",
+            "demo_url": "-",
+            "description": "Itämeren tila-aineistojen lataus."
         }
     ]
 }
