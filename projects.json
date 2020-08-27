@@ -1,13 +1,13 @@
 {
     "projects": [       
         {
-            "project": "Omahoito ODA",
-            "owner": "Sosiaali- ja Terveysministeriö",
+            "project": "Omaolo",
+            "owner": "SoteDigi Oy",
             "code_url": "https://github.com/omahoito",
-            "service_url": "https://oda.medidemo.fi/",
-            "homepage_url": "https://oda.medidemo.fi/",
+            "service_url": "https://www.omaolo.fi/",
+            "homepage_url": "https://www.omaolo.fi/",
             "demo_url": "-",
-            "description": "Omahoito-palvelut tarjoavat kansalaisille uusia mahdollisuuksia oman terveyden hoitoon."
+            "description": "Omaolosta löydät sosiaali- ja terveyspalvelut nopeasti ja esteettömästi, ympäri vuorokauden."
         },
         {
             "project": "SmartMet Server - MetOcean data server",
