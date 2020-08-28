@@ -350,6 +350,15 @@
             "homepage_url": "https://merihavainnot.ymparisto.fi/merihavainnot/",
             "demo_url": "-",
             "description": "Itämeren tila-aineistojen lataus."
+        },
+        {
+            "project": "Koronavilkku-mobiilisovellus",
+            "owner": "THL",
+            "code_url": "https://github.com/THLfi",
+            "service_url": "-",
+            "homepage_url": "-",
+            "demo_url": "-",
+            "description": "Koronavilkku on tartuntaketjujen katkaisua tehostava mobiilisovellus, jonka avulla ihmiset voivat itse osallistua ja vaikuttaa koronaviruksen leviämisen estämiseen ja suojella omaa ja läheistensä terveyttä."
         }
     ]
 }
