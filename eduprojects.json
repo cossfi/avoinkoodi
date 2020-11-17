@@ -179,6 +179,15 @@
             "homepage_url": "http://mpass.fi",
             "demo_url": "-",
             "description": "Heikkojen tunnistusmenetelmien SSO-ratkaisu"
+        },
+        {
+            "project": "eVaka – varhaiskasvatuksen ohjausjärjestelmä",
+            "owner": "Espoon kaupunki",
+            "code_url": "https://github.com/espoon-voltti/evaka",	    
+            "service_url": "-",
+            "homepage_url": "-",
+            "demo_url": "-",
+            "description": "Espoon kaupungin kehittämä varhaiskasvatuksen ohjausjärjestelmä, eVaka toteuttaa jo tällä hetkellä Espoossa seuraavat toiminnallisuudet:  Varhaiskasvatus ja esiopetuspaikan hakeminen, sijoittaminen ja päätökset. Läsnäolot ja laskutus sekä maksupäätökset. Esimiehen näkymä: ryhmien tekeminen, täyttöaste, lapset ryhmiin, käyttöaste. Integroituminen: Varda&Koski ja suomi.fi. Jatkossa eVaka sujuvoittaa muun muassa lasta koskevaa tiedonvaihtoa kodin ja mm. päiväkodin eli varhaiskasvatuksen välillä, tukee palvelusetelin käyttöä, digitalisoi varhaiskasvatussuunnitelman läpikäyntiä sekä antaa reaaliaikaista tietoa lapsen varhaiskasvatuksessa viettämästä ajasta. Näitä toiminnallisuuksia kehitetään parhaillaan ja kehitys valmistuu 11/2021."
         }
     ]
 }
