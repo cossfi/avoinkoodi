@@ -3,9 +3,9 @@
         {
             "project": "Koha – avoimen lähdekoodin kirjastojärjestelmä",
             "owner": "Kuntien omistama Koha-Suomi Oy",
-            "code_url": "https://github.com/KohaSuomi/kohasuomi",
+            "code_url": "https://github.com/KohaSuomi/Koha",
             "service_url": "-",
-            "homepage_url": "-",
+            "homepage_url": "https://koha-suomi.fi/",
             "demo_url": "",
             "description": "Koha – avoimen lähdekoodin kirjastojärjestelmä"
         },	
