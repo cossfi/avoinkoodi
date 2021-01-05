@@ -155,7 +155,7 @@
         },
         {
             "project": "Avoimen tiedon ja yhteentoimivuuden palvelu avoindata.fi",
-            "owner": "Väestörekisterikeskus",
+            "owner": "Digi- ja väestötietovirasto",
             "code_url": "https://github.com/yhteentoimivuuspalvelut/ytp",
             "service_url": "https://www.avoindata.fi/fi",
             "homepage_url": "-",
@@ -164,7 +164,7 @@
         },
         {
             "project": "Apika (PoC)",
-            "owner": "Väestörekisterikeskus",
+            "owner": "Digi- ja väestötietovirasto",
             "code_url": "https://github.com/Digipalvelutehdas/apika-dashboard",
             "service_url": "https://apika.digipalvelutehdas.fi/",
             "homepage_url": "http://apisuomi.fi/category/apika/",
@@ -172,17 +172,17 @@
             "description": "Avoimien rajapintojen hakemisto ja hallintajärjestelmä"
         },
         {
-            "project": "Palveluväylän turvapalvelin",
-            "owner": "Digi- ja väestötietovirasto",
+            "project": "X-Road® (Suomi.fi-palveluväylä)",
+            "owner": "Nordic Institute for Interoperability Solutions (NIIS)",
             "code_url": "https://github.com/nordic-institute/X-Road",
-            "service_url": "-",
+            "service_url": "https://dvv.fi/palveluvayla",
             "homepage_url": "https://x-road.global/",
-            "demo_url": "-",
+            "demo_url": "https://x-road.global/xroad-playground",
             "description": "-"
         },
         {
             "project": "Liityntäkatalogi",
-            "owner": "Väestörekisterikeskus",
+            "owner": "Digi- ja väestötietovirasto",
             "code_url": "https://github.com/vrk-kpa/api-catalog",	    
             "service_url": "https://liityntakatalogi.suomi.fi/",
             "homepage_url": "-",
@@ -209,7 +209,7 @@
         },
         {
             "project": "Suomi.fi-tunnistaminen",
-            "owner": "Väestörekisterikeskus",
+            "owner": "Digi- ja väestötietovirasto",
             "code_url": "https://github.com/vrk-kpa?utf8=%E2%9C%93&query=e-identification",
             "service_url": "-",
             "homepage_url": "http://esuomi.fi/palveluntarjoajille/tunnistaminen/",
@@ -245,7 +245,7 @@
         },
         {
             "project": "Suomi.fi-palvelutietovaranto",
-            "owner": "Väestörekisterikeskus",
+            "owner": "Digi- ja väestötietovirasto",
             "code_url": "https://github.com/vrk-kpa/ptv-releases",
             "service_url": "http://palvelutietovaranto.suomi.fi/",
             "homepage_url": "http://palvelutietovaranto.suomi.fi/",
