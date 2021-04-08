@@ -368,6 +368,15 @@
             "homepage_url": "-",
             "demo_url": "https://remsdemo.csc.fi",
             "description": "REMS-järjestelmää käytetään tutkimusaineistojen pääsynhallintaan mm. Kielipankissa, Tietolupaviranomaisella ja THL Biopankissa."
+        },
+        {
+            "project": "FOLIO – Open Source Library Services Platform",
+            "owner": "Open Library Foundation",
+            "code_url": "https://github.com/folio-org",	    
+            "service_url": "https://www.ebsco.com/products/folio-library-services-ebsco",
+            "homepage_url": "https://www.ebsco.com/products/folio-library-services-ebsco",
+            "demo_url": "-",
+            "description": "Avoimeen lähdekoodiin perustuva uuden sukupolven kirjastojärjestelmä oppilaitosten ja kirjastojen käyttöön."
         }
     ]
 }
