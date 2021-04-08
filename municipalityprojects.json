@@ -161,6 +161,15 @@
             "homepage_url": "-",
             "demo_url": "-",
             "description": "Espoon kaupungin kehittämä varhaiskasvatuksen ohjausjärjestelmä, eVaka toteuttaa jo tällä hetkellä Espoossa seuraavat toiminnallisuudet:  Varhaiskasvatus ja esiopetuspaikan hakeminen, sijoittaminen ja päätökset. Läsnäolot ja laskutus sekä maksupäätökset. Esimiehen näkymä: ryhmien tekeminen, täyttöaste, lapset ryhmiin, käyttöaste. Integroituminen: Varda&Koski ja suomi.fi. Jatkossa eVaka sujuvoittaa muun muassa lasta koskevaa tiedonvaihtoa kodin ja mm. päiväkodin eli varhaiskasvatuksen välillä, tukee palvelusetelin käyttöä, digitalisoi varhaiskasvatussuunnitelman läpikäyntiä sekä antaa reaaliaikaista tietoa lapsen varhaiskasvatuksessa viettämästä ajasta. Näitä toiminnallisuuksia kehitetään parhaillaan ja kehitys valmistuu 11/2021."
+        },
+        {
+            "project": "FOLIO – Open Source Library Services Platform",
+            "owner": "Open Library Foundation",
+            "code_url": "https://github.com/folio-org",	    
+            "service_url": "https://www.ebsco.com/products/folio-library-services-ebsco",
+            "homepage_url": "https://www.ebsco.com/products/folio-library-services-ebsco",
+            "demo_url": "-",
+            "description": "Avoimeen lähdekoodiin perustuva uuden sukupolven kirjastojärjestelmä oppilaitosten ja kirjastojen käyttöön."
         }
     ]
 }
