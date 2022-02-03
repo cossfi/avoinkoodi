@@ -13,8 +13,8 @@
             "project": "Pyramus oppilastietohallintajärjestelmä",
             "owner": "Otavan Opisto",
             "code_url": "https://github.com/otavanopisto/pyramus",
-            "service_url": "http://demo.pyramus.fi/",
-            "homepage_url": "http://www.pyramus.fi/",
+            "service_url": "-",
+            "homepage_url": "-",
             "demo_url": "-",
             "description": "Oppilastietohallintajärjestelmä"	    
         },
@@ -42,7 +42,7 @@
             "code_url": "https://github.com/UH-StudentServices/coursepages",
             "service_url": "https://courses.helsinki.fi/fi/content/kurssisivu-ja-opetushaut",
             "homepage_url": "-",
-            "demo_url": "-",
+            "demo_url": "https://courses.helsinki.fi/demo/demo-course",
             "description": "Kurssien sisällön hallinta, esittely ja hakupalvelut Drupal-järjestelmän avulla toteutettuna."
         },
         {
@@ -112,8 +112,8 @@
             "project": "osaan.fi -palvelu",
             "owner": "Opetushallitus",
             "code_url": "https://github.com/Opetushallitus/osaan.fi",
-            "service_url": "https://www.osaan.fi",
-            "homepage_url": "https://confluence.csc.fi/display/OPHPALV/osaan.fi",
+            "service_url": "-",
+            "homepage_url": "-",
             "demo_url": "-",
             "description": "Palvelu oman ammatillisen osaamisen arvioimiseksi."
         },
@@ -121,8 +121,8 @@
             "project": "näyttötutkintohaku.fi -palvelu",
             "owner": "Opetushallitus",
             "code_url": "https://github.com/Opetushallitus/aituhaku",
-            "service_url": "http://www.nayttotutkintohaku.fi",
-            "homepage_url": "https://confluence.csc.fi/pages/viewpage.action?pageId=58826670",
+            "service_url": "-",
+            "homepage_url": "-",
             "demo_url": "-",
             "description": "Palvelu näyttötutkintojen järjestäjien etsimiseen."
         },
@@ -172,13 +172,13 @@
             "description": "-"
         },
         {
-            "project": "MPASS tunnistusratkaisu (beta)",
-            "owner": "OKM & CSC",
-            "code_url": "https://github.com/Digipalvelutehdas/MPASS-proxy",	    
-            "service_url": "https://mpass-connector.csc.fi/",
+            "project": "MPASSid-tunnistuksenvälitysratkaisu",
+            "owner": "OPH",
+            "code_url": "https://github.com/mpassid",	    
+            "service_url": "http://mpass.fi",
             "homepage_url": "http://mpass.fi",
             "demo_url": "-",
-            "description": "Heikkojen tunnistusmenetelmien SSO-ratkaisu"
+            "description": "MPASSid on Opetushallituksen ylläpitämä tunnistuksenvälitysratkaisu, joka standardoi henkilötietojen välittämisen opetuksen tai koulutuksen järjestäjän henkilörekisteristä sähköisiin oppimispalveluihin."
         },
         {
             "project": "eVaka – varhaiskasvatuksen ohjausjärjestelmä",
