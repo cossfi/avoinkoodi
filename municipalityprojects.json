@@ -4,8 +4,8 @@
             "project": "Koha – avoimen lähdekoodin kirjastojärjestelmä",
             "owner": "Kuntien omistama Koha-Suomi Oy",
             "code_url": "https://github.com/KohaSuomi/Koha",
-            "service_url": "https://koha-suomi.fi/",
-            "homepage_url": "https://koha-suomi.fi/",
+            "service_url": "-",
+            "homepage_url": "-",
             "demo_url": "",
             "description": "Koha – avoimen lähdekoodin kirjastojärjestelmä"
         },	
@@ -31,8 +31,8 @@
             "project": "Munpalvelut.fi digitaalinen palvelutori",
             "owner": "Turun kaupunki",
             "code_url": "http://www.turku.fi/github",
-            "service_url": "http://www.munpalvelut.fi/",
-            "homepage_url": "http://www.turku.fi/munpalvelut",
+            "service_url": "-",
+            "homepage_url": "-",
             "demo_url": "",
             "description": "Digitaalinen palvelutori, joka yhdistää palveluiden käyttäjät niitä tuottaviin yrityksiin ja tahoihin."
         },    
@@ -82,13 +82,13 @@
             "description": "Finna.fi tuo Suomen museoiden, kirjastojen ja arkistojen aineistot kaikkien saataville."
         },
         {
-            "project": "kuntaliitto.fi -palvelu",
+            "project": "kuntaliitto.fi-palvelu",
             "owner": "Kuntaliitto",
             "code_url": "https://github.com/Kuntaliitto/kuntaliitto.fi",
             "service_url": "https://www.kuntaliitto.fi/",
             "homepage_url": "https://www.kuntaliitto.fi/",
-            "demo_url": "https://develop-build-2n55nqa-e52o5fbbuoqug.eu.platform.sh/",
-            "description": "kuntaliitto.fi -palvelu"
+            "demo_url": "-",
+            "description": "kuntaliitto.fi-palvelu"
         },
         {
             "project": "Kokeilun paikka",
@@ -109,13 +109,13 @@
             "description": "Satakunta Events on kaikille avoin ja maksuton tapahtumatietokanta, jonne kaikki voivat syöttää tapahtumansa aiheesta riippumatta."
         },
         {
-            "project": "Pori Events -tapahtumakalenteri (Drupal 8)",
+            "project": "Pori Events -tapahtumakalenteri (Drupal 9)",
             "owner": "Porin kaupunki",
             "code_url": "https://github.com/City-of-Pori/pori-events",
             "service_url": "https://tapahtumat.pori.fi/",
             "homepage_url": "https://tapahtumat.pori.fi/",
             "demo_url": "-",
-            "description": "Tapahtumakalenteri Drupal 8 -sivulle"
+            "description": "Tapahtumakalenteri Drupal 9 -sivulle"
         },
         {
             "project": "Sisällönhallintajärjestelmä (Drupal 8)",
@@ -123,7 +123,7 @@
             "code_url": "https://github.com/Kuntaliitto/kuntafibase",
             "service_url": "-",
             "homepage_url": "-",
-            "demo_url": "https://master-7rqtwti-x24xhsbg7dscs.eu-2.platformsh.site/",
+            "demo_url": "-",
             "description": "Drupal 8 sisällönhallintajärjestelmä"
         },
         {
@@ -146,10 +146,10 @@
         },
         {
             "project": "Tavastia Events",
-            "owner": "Avoin Häme-hanke",
+            "owner": "AvoinHäme-hanke",
             "code_url": "https://github.com/hamk-uas/TavastiaEvents",
-            "service_url": "https://api.tavastiaevents.fi/v1/",
-            "homepage_url": "https://api.tavastiaevents.fi/v1/",
+            "service_url": "-",
+            "homepage_url": "-",
             "demo_url": "-",
             "description": "Tavastia Events on AvoinHäme-hankkeessa Helsingin kaupungin/6Aika hankkeen kehittämän Linked events-tapahtumarajapinnan muokattu versio."
         },
