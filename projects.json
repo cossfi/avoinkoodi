@@ -2,7 +2,7 @@
     "projects": [       
         {
             "project": "Omaolo",
-            "owner": "SoteDigi Oy",
+            "owner": "DigiFinland Oy",
             "code_url": "https://github.com/omahoito",
             "service_url": "https://www.omaolo.fi/",
             "homepage_url": "https://www.omaolo.fi/",
@@ -22,8 +22,8 @@
             "project": "Munpalvelut.fi digitaalinen palvelutori",
             "owner": "Turun kaupunki",
             "code_url": "http://www.turku.fi/github",
-            "service_url": "http://www.munpalvelut.fi/",
-            "homepage_url": "http://www.turku.fi/munpalvelut",
+            "service_url": "-",
+            "homepage_url": "-",
             "demo_url": "-",
             "description": "Digitaalinen palvelutori, joka yhdistää palveluiden käyttäjät niitä tuottaviin yrityksiin ja tahoihin."
         },	
@@ -112,7 +112,7 @@
             "project": "Tarkkailija -palvelu asuinympäristön tapahtumien seurantaan",
             "owner": "Ympäristöministeriö",
             "code_url": "https://github.com/solita/Tarkkailija",
-            "service_url": "https://etarkkailija.fi/",
+            "service_url": "-",
             "homepage_url": "-",
             "demo_url": "-",
             "description": "Tarkkailijalla löytää tietoa valitun alueen asumisesta, kaavoituksesta, liikuntamahdollisuuksista, liikenteestä, yhdistystoiminnasta ja päätöksenteosta. Tarkkailija hakee tiedot yli 400:sta kuntien, viranomaisten ja medioiden verkkopalvelusta."
@@ -139,7 +139,7 @@
             "project": "Joukkoliikenteen seurantajärjestelmä Juku",
             "owner": "Väylävirasto",
             "code_url": "https://github.com/solita/livijuku",
-            "service_url": "https://juku.liikennevirasto.fi/",
+            "service_url": "-",
             "homepage_url": "-",
             "demo_url": "-",
             "description": "-"
@@ -161,15 +161,6 @@
             "homepage_url": "-",
             "demo_url": "-",
             "description": "Ckan + Drupal + AWS. Räätälöidyt lähdekoodit GitHubista."
-        },
-        {
-            "project": "Apika (PoC)",
-            "owner": "Digi- ja väestötietovirasto",
-            "code_url": "https://github.com/Digipalvelutehdas/apika-dashboard",
-            "service_url": "https://apika.digipalvelutehdas.fi/",
-            "homepage_url": "http://apisuomi.fi/category/apika/",
-            "demo_url": "-",
-            "description": "Avoimien rajapintojen hakemisto ja hallintajärjestelmä"
         },
         {
             "project": "X-Road® (Suomi.fi-palveluväylä)",
@@ -366,7 +357,7 @@
             "code_url": "https://github.com/CSCfi/rems",
             "service_url": "-",
             "homepage_url": "-",
-            "demo_url": "https://remsdemo.csc.fi",
+            "demo_url": "https://rems-demo.rahtiapp.fi",
             "description": "REMS-järjestelmää käytetään tutkimusaineistojen pääsynhallintaan mm. Kielipankissa, Tietolupaviranomaisella ja THL Biopankissa."
         },
         {
