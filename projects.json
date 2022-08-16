@@ -84,8 +84,8 @@
         {
             "project": "Nuortenideat",
             "owner": "Oikeusministeriö",
-            "code_url": "https://github.com/finnishnetsolutions/nuortenideat",
-            "service_url": "https://www.nuortenideat.fi/",
+            "code_url": "https://github.com/oikeusministerio/nuortenideat_django",
+            "service_url": "-",
             "homepage_url": "-",
             "demo_url": "-",
             "description": "Nuortenideat.fi on valtakunnallinen nuorten vaikuttamispalvelu, jonka avulla nuoret voivat helposti tehdä ehdotuksia, osallistua ja vaikuttaa heitä koskeviin asioihin."
