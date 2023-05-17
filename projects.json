@@ -360,6 +360,15 @@
             "demo_url": "https://rems-demo.rahtiapp.fi",
             "description": "REMS-järjestelmää käytetään tutkimusaineistojen pääsynhallintaan mm. Kielipankissa, Tietolupaviranomaisella ja THL Biopankissa."
         },
+       {
+            "project": "Koha – avoimen lähdekoodin kirjastojärjestelmä",
+            "owner": "Kuntien omistama Koha-Suomi Oy",
+            "code_url": "https://github.com/KohaSuomi/Koha",
+            "service_url": "-",
+            "homepage_url": "-",
+            "demo_url": "",
+            "description": "Koha – avoimen lähdekoodin kirjastojärjestelmä"
+        },
         {
             "project": "FOLIO – Open Source Library Services Platform",
             "owner": "Open Library Foundation",
