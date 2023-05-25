@@ -368,15 +368,7 @@
             "homepage_url": "-",
             "demo_url": "",
             "description": "Koha – avoimen lähdekoodin kirjastojärjestelmä"
-        },
-        {
-            "project": "FOLIO – Open Source Library Services Platform",
-            "owner": "Open Library Foundation",
-            "code_url": "https://github.com/folio-org",	    
-            "service_url": "https://www.ebsco.com/products/folio-library-services-ebsco",
-            "homepage_url": "https://www.ebsco.com/products/folio-library-services-ebsco",
-            "demo_url": "-",
-            "description": "Avoimeen lähdekoodiin perustuva uuden sukupolven kirjastojärjestelmä oppilaitosten ja kirjastojen käyttöön."
         }
+       
     ]
 }
