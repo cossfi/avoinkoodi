@@ -1,5 +1,14 @@
 {
-    "eduprojects": [       
+    "eduprojects": [
+         {
+            "project": "Huono-osaisuus Suomessa -karttasivusto",
+            "owner": "Diakonia-ammattikorkeakoulu",
+            "code_url": "https://github.com/DiakGit/karttasovellus",
+            "service_url": "https://diak.shinyapps.io/karttasovellus/",
+            "homepage_url": "https://diak.shinyapps.io/karttasovellus/",
+            "demo_url": "-",
+            "description": "-"	    
+        },
         {
             "project": "Muikku verkko-oppimisympäristö",
             "owner": "Otavan Opisto",
