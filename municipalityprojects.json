@@ -49,7 +49,7 @@
             "project": "Liityntäpysäköinnin tietojärjestelmä",
             "owner": "HSL",
             "code_url": "https://github.com/HSLdevcom/parkandrideAPI",	    
-            "service_url": "https://p.hsl.fi/#/hubs",
+            "service_url": "https://parking.fintraffic.fi/hubs",
             "homepage_url": "",
             "demo_url": "",
             "description": "Avoin rajapinta ja palvelu, joka jakaa tietoa pysäköintipaikoista pääkaupunkiseudulla."
@@ -94,8 +94,8 @@
             "project": "Kokeilun paikka",
             "owner": "Valtioneuvoston kanslia",
             "code_url": "https://github.com/karolina-engine",
-            "service_url": "https://www.kokeilunpaikka.fi/fi/",
-            "homepage_url": "https://www.kokeilunpaikka.fi/fi/",
+            "service_url": "-",
+            "homepage_url": "-",
             "demo_url": "",
             "description": "Kokeilun paikka on palvelu, jossa kokeiluaihioita yhteiskehitetään ja rahoitetaan, joko joukolla taikka julkisen tai yksityisen hankerahoituksen turvin – ja parhaista otetaan tietenkin opiksi."
         },
@@ -103,8 +103,8 @@
             "project": "Satakunta Events",
             "owner": "Porin kaupunki",
             "code_url": "https://github.com/dymesolutions/satakunta-events-ui",
-            "service_url": "https://satakuntaevents.fi/login",
-            "homepage_url": "https://satakuntaevents.fi/login",
+            "service_url": "https://satakuntaevents.fi/home",
+            "homepage_url": "https://satakuntaevents.fi/home",
             "demo_url": "",
             "description": "Satakunta Events on kaikille avoin ja maksuton tapahtumatietokanta, jonne kaikki voivat syöttää tapahtumansa aiheesta riippumatta."
         },
