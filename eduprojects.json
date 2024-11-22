@@ -100,13 +100,13 @@
             "description": "Tutkintotoimikuntajärjestelmän ydinjärjestelmä"
         },
         {
-            "project": "Todennetun osaamisen rekisteri TOR",
+            "project": "KOSKI-palvelu",
             "owner": "Opetushallitus",
-            "code_url": "https://github.com/Opetushallitus/tor",
-            "service_url": "-",
-            "homepage_url": "-",
+            "code_url": "https://github.com/Opetushallitus/koski",
+            "service_url": "https://www.oph.fi/fi/palvelumme/koski-palvelu",
+            "homepage_url": "https://www.oph.fi/fi/palvelumme/koski-palvelu",
             "demo_url": "-",
-            "description": "-"
+            "description": "Koski toimii kattavana opetustoimialan tietovarantona, joka tarjoaa tutkintoon johtavat suoritustiedot eri koulutusasteilta."
         },
         {
             "project": "Hakurekisteri",
