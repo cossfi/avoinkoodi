@@ -159,7 +159,7 @@
             "code_url": "https://github.com/yhteentoimivuuspalvelut/ytp",
             "service_url": "https://www.avoindata.fi/fi",
             "homepage_url": "-",
-            "demo_url": "-",
+            "demo_url": "https://www.betaavoindata.fi/fi",
             "description": "Ckan + Drupal + AWS. Räätälöidyt lähdekoodit GitHubista."
         },
         {
@@ -193,7 +193,7 @@
             "project": "Liityntäpysäköinnin tietojärjestelmä",
             "owner": "HSL",
             "code_url": "https://github.com/HSLdevcom/parkandrideAPI",	    
-            "service_url": "https://p.hsl.fi/#/hubs",
+            "service_url": "https://parking.fintraffic.fi/hubs",
             "homepage_url": "-",
             "demo_url": "-",
             "description": "Avoin rajapinta ja palvelu, joka jakaa tietoa pysäköintipaikoista pääkaupunkiseudulla."
@@ -283,8 +283,8 @@
             "project": "Kokeilun paikka",
             "owner": "Valtioneuvoston kanslia",
             "code_url": "https://github.com/karolina-engine",
-            "service_url": "https://www.kokeilunpaikka.fi/fi/",
-            "homepage_url": "https://www.kokeilunpaikka.fi/fi/",
+            "service_url": "-",
+            "homepage_url": "-",
             "demo_url": "-",
             "description": "Kokeilun paikka on palvelu, jossa kokeiluaihioita yhteiskehitetään ja rahoitetaan, joko joukolla taikka julkisen tai yksityisen hankerahoituksen turvin – ja parhaista otetaan tietenkin opiksi."
         },
@@ -357,7 +357,7 @@
             "code_url": "https://github.com/CSCfi/rems",
             "service_url": "-",
             "homepage_url": "-",
-            "demo_url": "https://rems-demo.rahtiapp.fi",
+            "demo_url": "https://rems-test.2.rahtiapp.fi/",
             "description": "REMS-järjestelmää käytetään tutkimusaineistojen pääsynhallintaan mm. Kielipankissa, Tietolupaviranomaisella ja THL Biopankissa."
         },
        {
