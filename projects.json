@@ -119,12 +119,12 @@
         },
         {
             "project": "Liikennetietopalvelu Digitraffic",
-            "owner": "Traffic Management Finland Group",
+            "owner": "Fintraffic",
             "code_url": "https://github.com/tmfg/digitraffic",
             "service_url": "https://www.digitraffic.fi",
             "homepage_url": "https://www.digitraffic.fi",
             "demo_url": "-",
-            "description": "Digitraffic on Traffic Management Finlandin (TMF) palvelu, jonka kautta on saatavissa ajantasaista liikennetietoa Suomen tieverkolta, rautatieliikenteestä ja meriliikenteestä. Liikennetiedot ovat avointa dataa, jota jaetaan avointen rajapintojen kautta."
+            "description": "Digitraffic on Fintrafficin palvelu, jonka kautta on saatavissa ajantasaista liikennetietoa Suomen tieverkolta, rautatieliikenteestä ja meriliikenteestä. Liikennetiedot ovat avointa dataa, jota jaetaan avointen rajapintojen kautta."
         },
         {
             "project": "Joukkoliikenteen seurantajärjestelmä Juku",
