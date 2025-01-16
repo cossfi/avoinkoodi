@@ -197,6 +197,15 @@
             "homepage_url": "-",
             "demo_url": "-",
             "description": "Espoon kaupungin kehittämä varhaiskasvatuksen ohjausjärjestelmä, eVaka toteuttaa jo tällä hetkellä Espoossa seuraavat toiminnallisuudet:  Varhaiskasvatus ja esiopetuspaikan hakeminen, sijoittaminen ja päätökset. Läsnäolot ja laskutus sekä maksupäätökset. Esimiehen näkymä: ryhmien tekeminen, täyttöaste, lapset ryhmiin, käyttöaste. Integroituminen: Varda&Koski ja suomi.fi. Jatkossa eVaka sujuvoittaa muun muassa lasta koskevaa tiedonvaihtoa kodin ja mm. päiväkodin eli varhaiskasvatuksen välillä, tukee palvelusetelin käyttöä, digitalisoi varhaiskasvatussuunnitelman läpikäyntiä sekä antaa reaaliaikaista tietoa lapsen varhaiskasvatuksessa viettämästä ajasta. Näitä toiminnallisuuksia kehitetään parhaillaan ja kehitys valmistuu 11/2021."
+        },
+          {
+            "project": "Finna - Hakupalvelu",
+            "owner": "Kansalliskirjasto",
+            "code_url": "https://github.com/NatLibFi/NDL-VuFind2",
+            "service_url": "https://www.finna.fi/",
+            "homepage_url": "https://www.finna.fi/",
+            "demo_url": "",
+            "description": "Finna.fi tuo Suomen museoiden, kirjastojen ja arkistojen aineistot kaikkien saataville."
         }
     ]
 }
