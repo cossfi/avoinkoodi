@@ -343,7 +343,7 @@
             "description": "Koronavilkku on tartuntaketjujen katkaisua tehostava mobiilisovellus, jonka avulla ihmiset voivat itse osallistua ja vaikuttaa koronaviruksen leviämisen estämiseen ja suojella omaa ja läheistensä terveyttä."
         },
         {
-            "project": "Resource Entitlement and Management System",
+            "project": "Resource Entitlement Management System",
             "owner": "CSC",
             "code_url": "https://github.com/CSCfi/rems",
             "service_url": "-",
