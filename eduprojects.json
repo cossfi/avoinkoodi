@@ -140,7 +140,7 @@
             "owner": "Opetushallitus",
             "code_url": "https://github.com/Opetushallitus/koodisto",
             "service_url": "-",
-            "homepage_url": "https://confluence.csc.fi/display/OPHPALV/Koodistopalvelu",
+            "homepage_url": "https://confluence.csc.fi/display/PALV/Koodistopalvelu",
             "demo_url": "-",
             "description": "-"
         },
@@ -149,7 +149,7 @@
             "owner": "Opetushallitus",
             "code_url": "https://github.com/Opetushallitus/organisaatio",
             "service_url": "-",
-            "homepage_url": "https://confluence.csc.fi/display/OPHPALV/Organisaatiotietojen+hallintapalvelu",
+            "homepage_url": "https://confluence.csc.fi/display/PALV/Organisaatiotietojen+hallintapalvelu",
             "demo_url": "-",
             "description": "Organisaatioiden hallintapalvelu"
         },
@@ -182,7 +182,7 @@
         },
         {
             "project": "MPASSid-tunnistuksenvälitysratkaisu",
-            "owner": "OPH",
+            "owner": "Opetushallitus",
             "code_url": "https://github.com/mpassid",	    
             "service_url": "http://mpass.fi",
             "homepage_url": "http://mpass.fi",
