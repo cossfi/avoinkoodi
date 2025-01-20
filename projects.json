@@ -199,13 +199,13 @@
             "description": "Suomi.fi-tunnistaminen mahdollistaa Suomen ja EU-kansalaisen sähköisen tunnistamisen tietoturvallisesti erilaisia tunnistusvälineitä, kuten pankkitunnistusta ja mobiilivarmennetta hyödyntäen."
         },
         {
-            "project": "OpenStreetMap -palveluun pohjautuva palvelukartta",
+            "project": "Palvelukartta",
             "owner": "Helsingin kaupunki",
-            "code_url": "https://github.com/City-of-Helsinki/servicemap",
-            "service_url": " http://servicemap.hel.fi/",
-            "homepage_url": "-",
-            "demo_url": "-",
-            "description": "-"
+            "code_url": "https://github.com/City-of-Helsinki/servicemap-ui",
+            "service_url": "https://servicemap.hel.fi/fi",
+            "homepage_url": "",
+            "demo_url": "",
+            "description": "Palvelukartalta löytyy Espoon, Helsingin, Kauniaisten, Vantaan, Länsi-Uudenmaan sekä Vantaan ja Keravan hyvinvointialueiden julkiset toimipisteet ja niiden palvelut."
         },
         {
             "project": "Harja",
