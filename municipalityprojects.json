@@ -55,13 +55,13 @@
             "description": "Avoin rajapinta ja palvelu, joka jakaa tietoa pysäköintipaikoista pääkaupunkiseudulla."
         },
         {
-            "project": "OpenStreetMap -palveluun pohjautuva palvelukartta",
+            "project": "Palvelukartta",
             "owner": "Helsingin kaupunki",
-            "code_url": "https://github.com/City-of-Helsinki/servicemap",
-            "service_url": " http://servicemap.hel.fi/",
+            "code_url": "https://github.com/City-of-Helsinki/servicemap-ui",
+            "service_url": "https://servicemap.hel.fi/fi",
             "homepage_url": "",
             "demo_url": "",
-            "description": ""
+            "description": "Palvelukartalta löytyy Espoon, Helsingin, Kauniaisten, Vantaan, Länsi-Uudenmaan sekä Vantaan ja Keravan hyvinvointialueiden julkiset toimipisteet ja niiden palvelut."
         },
         {
             "project": "KADA – Kuntien avoin digialusta",
