@@ -37,13 +37,13 @@
             "description": "Digitaalinen palvelutori, joka yhdistää palveluiden käyttäjät niitä tuottaviin yrityksiin ja tahoihin."
         },    
         {
-            "project": "Digitransit, Uuden ajan matkaopas",
-            "owner": "HSL & Väylävirasto",
+            "project": "Digitransit - Uuden ajan reittiopas",
+            "owner": "HSL, Fintraffic, Waltti Solutions",
             "code_url": "https://github.com/HSLdevcom/digitransit",	    
-            "service_url": "http://digitransit.fi/",
-            "homepage_url": "http://digitransit.fi/",
-            "demo_url": "",
-            "description": ""
+            "service_url": "https://digitransit.fi/",
+            "homepage_url": "https://digitransit.fi/",
+            "demo_url": "-",
+            "description": "Uuden ajan reittiopas"
         },
         {
             "project": "Liityntäpysäköinnin tietojärjestelmä",
