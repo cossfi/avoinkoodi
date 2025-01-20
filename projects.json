@@ -163,13 +163,13 @@
             "description": "-"
         },
         {
-            "project": "Digitransit, Uuden ajan matkaopas",
-            "owner": "HSL & Väylävirasto",
+            "project": "Digitransit - Uuden ajan reittiopas",
+            "owner": "HSL, Fintraffic, Waltti Solutions",
             "code_url": "https://github.com/HSLdevcom/digitransit",	    
-            "service_url": "http://digitransit.fi/",
-            "homepage_url": "http://digitransit.fi/",
+            "service_url": "https://digitransit.fi/",
+            "homepage_url": "https://digitransit.fi/",
             "demo_url": "-",
-            "description": "-"
+            "description": "Uuden ajan reittiopas"
         },
         {
             "project": "Liityntäpysäköinnin tietojärjestelmä",
