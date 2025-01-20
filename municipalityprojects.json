@@ -170,6 +170,15 @@
             "homepage_url": "https://diak.shinyapps.io/karttasovellus/",
             "demo_url": "-",
             "description": "Karttasovelluksessa voi tarkastella erilaisia huono-osaisuuden osoittimia sekä luoda profiileja alueista."	    
+        },
+        {
+            "project": "Rakennetun ympäristön asiointipalvelu Lupapiste",
+            "owner": "Cloudpermit Oy",
+            "code_url": "https://github.com/lupapiste/lupapiste",
+            "service_url": "https://www.lupapiste.fi/",
+            "homepage_url": "-",
+            "demo_url": "-",
+            "description": "Lupapiste on sähköinen palvelu, jossa rakennus-, ympäristö- ja yleisten alueiden käyttölupiin liittyvät hakemukset ja aineistot välittyvät kunnan järjestelmiin sähköisessä muodossa."	    
         }
     
     ]
