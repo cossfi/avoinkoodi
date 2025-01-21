@@ -172,15 +172,6 @@
             "description": "Uuden ajan reittiopas"
         },
         {
-            "project": "Liityntäpysäköinnin tietojärjestelmä",
-            "owner": "HSL",
-            "code_url": "https://github.com/HSLdevcom/parkandrideAPI",	    
-            "service_url": "https://parking.fintraffic.fi/hubs",
-            "homepage_url": "-",
-            "demo_url": "-",
-            "description": "Avoin rajapinta ja palvelu, joka jakaa tietoa pysäköintipaikoista pääkaupunkiseudulla."
-        },
-        {
             "project": "Suomi.fi-tunnistaminen",
             "owner": "Digi- ja väestötietovirasto",
             "code_url": "https://github.com/vrk-kpa?utf8=%E2%9C%93&query=e-identification",
