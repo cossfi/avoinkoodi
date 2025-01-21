@@ -82,15 +82,6 @@
             "description": "Oikeusministeriön ylläpitämässä kansalaisaloite.fi-verkkopalvelussa voit tehdä kansalaisaloitteen sekä kannattaa palvelussa avoinna olevia aloitteita. "
         },
         {
-            "project": "Nuortenideat",
-            "owner": "Oikeusministeriö",
-            "code_url": "https://github.com/oikeusministerio/nuortenideat_django",
-            "service_url": "-",
-            "homepage_url": "-",
-            "demo_url": "-",
-            "description": "Nuortenideat.fi on valtakunnallinen nuorten vaikuttamispalvelu, jonka avulla nuoret voivat helposti tehdä ehdotuksia, osallistua ja vaikuttaa heitä koskeviin asioihin."
-        }, 
-        {
             "project": "Otakantaa",
             "owner": "Oikeusministeriö",
             "code_url": "https://github.com/finnishnetsolutions/otakantaa",
