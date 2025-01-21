@@ -46,15 +46,6 @@
             "description": "Uuden ajan reittiopas"
         },
         {
-            "project": "Liityntäpysäköinnin tietojärjestelmä",
-            "owner": "HSL",
-            "code_url": "https://github.com/HSLdevcom/parkandrideAPI",	    
-            "service_url": "https://parking.fintraffic.fi/hubs",
-            "homepage_url": "",
-            "demo_url": "",
-            "description": "Avoin rajapinta ja palvelu, joka jakaa tietoa pysäköintipaikoista pääkaupunkiseudulla."
-        },
-        {
             "project": "Palvelukartta",
             "owner": "Helsingin kaupunki",
             "code_url": "https://github.com/City-of-Helsinki/servicemap-ui",
