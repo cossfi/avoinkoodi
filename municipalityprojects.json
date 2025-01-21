@@ -49,7 +49,7 @@
             "project": "Palvelukartta",
             "owner": "Helsingin kaupunki",
             "code_url": "https://github.com/City-of-Helsinki/servicemap-ui",
-            "service_url": "https://servicemap.hel.fi/fi",
+            "service_url": "https://palvelukartta.hel.fi/fi",
             "homepage_url": "",
             "demo_url": "",
             "description": "Palvelukartalta löytyy Espoon, Helsingin, Kauniaisten, Vantaan, Länsi-Uudenmaan sekä Vantaan ja Keravan hyvinvointialueiden julkiset toimipisteet ja niiden palvelut."
