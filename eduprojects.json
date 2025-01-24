@@ -163,7 +163,7 @@
             "description": "Tutkintojen viralliset muodostumissäännöt, suorituskriteerit ja sisällöt hallitaan ePerusteet-järjestelmällä."
         },
         {
-            "project": "Valtionavustusten hakujärjestelmä",
+            "project": "Valtionavustusjärjestelmä",
             "owner": "Opetushallitus",
             "code_url": "https://github.com/Opetushallitus/valtionavustus",
             "service_url": "-",
