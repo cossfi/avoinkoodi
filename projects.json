@@ -127,9 +127,9 @@
             "description": "-"
         },
         {
-            "project": "Avoimen tiedon ja yhteentoimivuuden palvelu avoindata.fi",
+            "project": "Avoindata.fi",
             "owner": "Digi- ja väestötietovirasto",
-            "code_url": "https://github.com/yhteentoimivuuspalvelut/ytp",
+            "code_url": "https://github.com/vrk-kpa/opendata",
             "service_url": "https://www.avoindata.fi/fi",
             "homepage_url": "-",
             "demo_url": "https://www.betaavoindata.fi/fi",
