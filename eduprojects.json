@@ -118,15 +118,6 @@
             "description": "-"
         },
         {
-            "project": "Korkeakoulujen palautejärjestelmä Arvo",
-            "owner": "CSC",
-            "code_url": "https://github.com/CSC-IT-Center-for-Science/arvo",
-            "service_url": "-",
-            "homepage_url": "-",
-            "demo_url": "-",
-            "description": "-"
-        },
-        {
             "project": "MPASSid-tunnistuksenvälitysratkaisu",
             "owner": "Opetushallitus",
             "code_url": "https://github.com/mpassid",	    
