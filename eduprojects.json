@@ -4,8 +4,8 @@
             "project": "Huono-osaisuus Suomessa -karttasivusto",
             "owner": "Diakonia-ammattikorkeakoulu",
             "code_url": "https://github.com/DiakGit/karttasovellus",
-            "service_url": "https://diak.shinyapps.io/karttasovellus/",
-            "homepage_url": "https://diak.shinyapps.io/karttasovellus/",
+            "service_url": "https://karttasovellus.diak.fi/",
+            "homepage_url": "https://karttasovellus.diak.fi/",
             "demo_url": "-",
             "description": "Karttasovelluksessa voi tarkastella erilaisia huono-osaisuuden osoittimia sekä luoda profiileja alueista."	    
         },
